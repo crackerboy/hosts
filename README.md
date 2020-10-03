@@ -26,7 +26,7 @@ Ardından sanki Chrome tarayıcınıza yüklüyormuş gibi şuradan "Opera'ya ek
 
 ```https://raw.githubusercontent.com/xorcan/hosts/master/xips.txt```
 
-![bunun gibi](https://i.postimg.cc/636NpJVx/screenshot-2019-08-04-at-11-39-17.png)
+![bunun gibi](https://i.hizliresim.com/4GogxW.png)
 
 - Ardından sağ üstte beliren "Değişiklikleri Kaydet" düğmesine tıklayarak sayfadan çıkabilirsiniz. 
 - Artık ayarlar sayfasına girip "Güncelle" tuşuna basmanıza gerek yok. Liste diğer listelerin yaptığı gibi belli aralıklarla kendini güncelleyecektir. 
