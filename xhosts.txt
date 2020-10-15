@@ -20,7 +20,7 @@
 127.0.0.1 05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 0638.info
 127.0.0.1 0n.click
-127.0.0.1 1.black-snake-oil.info​
+127.0.0.1 1.black-snake-oil.info
 127.0.0.1 1.bmon.site
 127.0.0.1 109.73.75.29
 127.0.0.1 109.73.75.3
@@ -948,7 +948,7 @@
 127.0.0.1 bk1x.mobi
 127.0.0.1 bk1xbet.mobi
 127.0.0.1 bkrtx.com
-127.0.0.1 black-snake-oil.info​
+127.0.0.1 black-snake-oil.info
 127.0.0.1 block.s2block.com
 127.0.0.1 blog.jet-istanbul.com
 127.0.0.1 blok.link
@@ -4036,7 +4036,7 @@
 127.0.0.1 www.05bursa-escortsc-com.cdn.ampproject.org
 127.0.0.1 www.0638.info
 127.0.0.1 www.0n.click
-127.0.0.1 www.1.black-snake-oil.info​
+127.0.0.1 www.1.black-snake-oil.info
 127.0.0.1 www.1.bmon.site
 127.0.0.1 www.110380d053f716c4.com
 127.0.0.1 www.11820.com.tr
@@ -4907,7 +4907,7 @@
 127.0.0.1 www.bk1x.mobi
 127.0.0.1 www.bk1xbet.mobi
 127.0.0.1 www.bkrtx.com
-127.0.0.1 www.black-snake-oil.info​
+127.0.0.1 www.black-snake-oil.info
 127.0.0.1 www.block.s2block.com
 127.0.0.1 www.blog.jet-istanbul.com
 127.0.0.1 www.blok.link
