@@ -1,9 +1,9 @@
-! Title: nurcan Türk ad-list
+! Title: xorcan Türk ad-list
 ! Format: Hosts
-! Expires: 1 days
+! Expires: 9 days
 ! Homepage: https://github.com/xorcan/hosts
-! Released: 28.07.2020
-! Entries: 8399
+! Released: 15.10.2020
+! Entries: 8507
 ! Details: https://github.com/xorcan/hosts
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -7928,7 +7928,61 @@
 127.0.0.1 www.xmtrk.com
 127.0.0.1 www.xn--altnoran-vkb.com.tr
 127.0.0.1 www.xn--poplerbahissiteleri-79b.com
+127.0.0.1 www.xn--yapikiredi-w2f.com
+127.0.0.1 www.xn--yapikiredi-w2f.com.tr
+127.0.0.1 www.xn--yapikiredi-w2f.edu
+127.0.0.1 www.xn--yapikiredi-w2f.gov
+127.0.0.1 www.xn--yapikiredi-w2f.gov.com.tr
+127.0.0.1 www.xn--yapikiredi-w2f.gov.info.tr
+127.0.0.1 www.xn--yapikiredi-w2f.gov.tr
+127.0.0.1 www.xn--yapikiredi-w2f.info
+127.0.0.1 www.xn--yapikiredi-w2f.info.tr
+127.0.0.1 www.xn--yapikiredi-w2f.net
+127.0.0.1 www.xn--yapikiredi-w2f.tr
+127.0.0.1 www.xn--yapikredi-8jf.com
+127.0.0.1 www.xn--yapikredi-8jf.com.tr
+127.0.0.1 www.xn--yapikredi-8jf.edu
+127.0.0.1 www.xn--yapikredi-8jf.gov
+127.0.0.1 www.xn--yapikredi-8jf.gov.com.tr
+127.0.0.1 www.xn--yapikredi-8jf.gov.info.tr
+127.0.0.1 www.xn--yapikredi-8jf.gov.tr
+127.0.0.1 www.xn--yapikredi-8jf.info
+127.0.0.1 www.xn--yapikredi-8jf.info.tr
+127.0.0.1 www.xn--yapikredi-8jf.net
+127.0.0.1 www.xn--yapikredi-8jf.tr
+127.0.0.1 www.xn--yapikredi-8jff.com
+127.0.0.1 www.xn--yapikredi-8jff.com.tr
+127.0.0.1 www.xn--yapikredi-8jff.edu
+127.0.0.1 www.xn--yapikredi-8jff.gov
+127.0.0.1 www.xn--yapikredi-8jff.gov.com.tr
+127.0.0.1 www.xn--yapikredi-8jff.gov.info.tr
+127.0.0.1 www.xn--yapikredi-8jff.gov.tr
+127.0.0.1 www.xn--yapikredi-8jff.info
+127.0.0.1 www.xn--yapikredi-8jff.info.tr
+127.0.0.1 www.xn--yapikredi-8jff.net
+127.0.0.1 www.xn--yapikredi-8jff.tr
+127.0.0.1 www.xn--yapikredi-ekf.com
+127.0.0.1 www.xn--yapikredi-ekf.com.tr
+127.0.0.1 www.xn--yapikredi-ekf.edu
+127.0.0.1 www.xn--yapikredi-ekf.gov
+127.0.0.1 www.xn--yapikredi-ekf.gov.com.tr
+127.0.0.1 www.xn--yapikredi-ekf.gov.info.tr
+127.0.0.1 www.xn--yapikredi-ekf.gov.tr
+127.0.0.1 www.xn--yapikredi-ekf.info
+127.0.0.1 www.xn--yapikredi-ekf.info.tr
+127.0.0.1 www.xn--yapikredi-ekf.net
+127.0.0.1 www.xn--yapikredi-ekf.tr
 127.0.0.1 www.xn--yapkredi-vkb.com
+127.0.0.1 www.xn--yapkredi-vkb.com.tr
+127.0.0.1 www.xn--yapkredi-vkb.edu
+127.0.0.1 www.xn--yapkredi-vkb.gov
+127.0.0.1 www.xn--yapkredi-vkb.gov.com.tr
+127.0.0.1 www.xn--yapkredi-vkb.gov.info.tr
+127.0.0.1 www.xn--yapkredi-vkb.gov.tr
+127.0.0.1 www.xn--yapkredi-vkb.info
+127.0.0.1 www.xn--yapkredi-vkb.info.tr
+127.0.0.1 www.xn--yapkredi-vkb.net
+127.0.0.1 www.xn--yapkredi-vkb.tr
 127.0.0.1 www.xnbfan.com
 127.0.0.1 www.xozifo.icu
 127.0.0.1 www.xsport.mobi
@@ -8192,7 +8246,61 @@
 127.0.0.1 xmtrk.com
 127.0.0.1 xn--altnoran-vkb.com.tr
 127.0.0.1 xn--poplerbahissiteleri-79b.com
+127.0.0.1 xn--yapikiredi-w2f.com
+127.0.0.1 xn--yapikiredi-w2f.com.tr
+127.0.0.1 xn--yapikiredi-w2f.edu
+127.0.0.1 xn--yapikiredi-w2f.gov
+127.0.0.1 xn--yapikiredi-w2f.gov.com.tr
+127.0.0.1 xn--yapikiredi-w2f.gov.info.tr
+127.0.0.1 xn--yapikiredi-w2f.gov.tr
+127.0.0.1 xn--yapikiredi-w2f.info
+127.0.0.1 xn--yapikiredi-w2f.info.tr
+127.0.0.1 xn--yapikiredi-w2f.net
+127.0.0.1 xn--yapikiredi-w2f.tr
+127.0.0.1 xn--yapikredi-8jf.com
+127.0.0.1 xn--yapikredi-8jf.com.tr
+127.0.0.1 xn--yapikredi-8jf.edu
+127.0.0.1 xn--yapikredi-8jf.gov
+127.0.0.1 xn--yapikredi-8jf.gov.com.tr
+127.0.0.1 xn--yapikredi-8jf.gov.info.tr
+127.0.0.1 xn--yapikredi-8jf.gov.tr
+127.0.0.1 xn--yapikredi-8jf.info
+127.0.0.1 xn--yapikredi-8jf.info.tr
+127.0.0.1 xn--yapikredi-8jf.net
+127.0.0.1 xn--yapikredi-8jf.tr
+127.0.0.1 xn--yapikredi-8jff.com
+127.0.0.1 xn--yapikredi-8jff.com.tr
+127.0.0.1 xn--yapikredi-8jff.edu
+127.0.0.1 xn--yapikredi-8jff.gov
+127.0.0.1 xn--yapikredi-8jff.gov.com.tr
+127.0.0.1 xn--yapikredi-8jff.gov.info.tr
+127.0.0.1 xn--yapikredi-8jff.gov.tr
+127.0.0.1 xn--yapikredi-8jff.info
+127.0.0.1 xn--yapikredi-8jff.info.tr
+127.0.0.1 xn--yapikredi-8jff.net
+127.0.0.1 xn--yapikredi-8jff.tr
+127.0.0.1 xn--yapikredi-ekf.com
+127.0.0.1 xn--yapikredi-ekf.com.tr
+127.0.0.1 xn--yapikredi-ekf.edu
+127.0.0.1 xn--yapikredi-ekf.gov
+127.0.0.1 xn--yapikredi-ekf.gov.com.tr
+127.0.0.1 xn--yapikredi-ekf.gov.info.tr
+127.0.0.1 xn--yapikredi-ekf.gov.tr
+127.0.0.1 xn--yapikredi-ekf.info
+127.0.0.1 xn--yapikredi-ekf.info.tr
+127.0.0.1 xn--yapikredi-ekf.net
+127.0.0.1 xn--yapikredi-ekf.tr
 127.0.0.1 xn--yapkredi-vkb.com
+127.0.0.1 xn--yapkredi-vkb.com.tr
+127.0.0.1 xn--yapkredi-vkb.edu
+127.0.0.1 xn--yapkredi-vkb.gov
+127.0.0.1 xn--yapkredi-vkb.gov.com.tr
+127.0.0.1 xn--yapkredi-vkb.gov.info.tr
+127.0.0.1 xn--yapkredi-vkb.gov.tr
+127.0.0.1 xn--yapkredi-vkb.info
+127.0.0.1 xn--yapkredi-vkb.info.tr
+127.0.0.1 xn--yapkredi-vkb.net
+127.0.0.1 xn--yapkredi-vkb.tr
 127.0.0.1 xnbfan.com
 127.0.0.1 xozifo.icu
 127.0.0.1 xsport.mobi
