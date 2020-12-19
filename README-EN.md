@@ -90,6 +90,10 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 
 - Go back to the main menu, check and apply updates. Restart your device.
 
+### Plugin browsers // free, device root-accessible
+
+In a browser with add-on support such as Kiwi Browser or Mozilla Firefox, you can apply the same by installing an ublock origin from the add-ons section.
+
 ## Included lists (Swallowed)
 
 By using this list provider, you automatically use the lists listed below. Don't worry, they will always be in the most up-to-date state. You don't need to add them that you understand.
