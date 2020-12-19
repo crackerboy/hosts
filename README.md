@@ -5,26 +5,27 @@
 
 ## Kullanım ve Uyarı
 
-AdAway ile kullanınız. -çoğunlukla- Android için tasarlanmıştır. Daha önceden Nano Adblocker tavsiye etmiştim. Nano adblocker artık bir virüs olduğu için cihazlarınızdan **kaldırın** ve **ublock origin** yükleyin! Ayrıntılı bilgi: [bilgiler 1](https://eksisozluk.com/nano-defender--5646917?a=nice) - [bilgiler 2](https://eksisozluk.com/nano-adblocker--5649314?a=nice) 
+AdAway ile kullanınız. -çoğunlukla- Android için tasarlanmıştır. Daha önceden Nano Adblocker tavsiye etmiştim. Nano adblocker artık bir virüs olduğu için cihazlarınızdan **kaldırın** ve **ublock origin** yükleyin!
+
+Ayrıntılı bilgi: [bilgiler 1](https://eksisozluk.com/nano-defender--5646917?a=nice) - [bilgiler 2](https://eksisozluk.com/nano-adblocker--5649314?a=nice) 
 
 ## Windows için Önerilen
 
-- İnternet tarayıcınızda [ublock origin](https://github.com/gorhill/uBlock) kullanarak etkin bir şekilde element filtrelemesi yapabilirsiniz. Bunun için öncelikle tarayıcınız için olanını edinin:
-- [Chrome için](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=tr) - 
+- İnternet tarayıcınızda [ublock origin](https://github.com/gorhill/uBlock) kullanarak etkin bir şekilde element filtrelemesi yapabilirsiniz. Bunun için öncelikle tarayıcınız için olanını edinin: [Chrome için](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=tr) - 
 [Firefox için](https://addons.mozilla.org/tr/firefox/addon/ublock-origin/) - [Edge için](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) - [Opera için](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak))
 
-- Ardından ublock origin > Kontrol Paneli > Süzgeç Listeleri > İçe Aktar (en altta) bölümünden açılan url ekleme kutusuna şu linkleri ekleyin:
+- Ardından **ublock origin > Kontrol Paneli > Süzgeç Listeleri > İçe Aktar (en altta)** bölümünden açılan url ekleme kutusuna şu linkleri ekleyin:
 
-```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
-
-```https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt```
-
-```https://raw.githubusercontent.com/xorcan/hosts/master/xips.txt```
+```
+https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
+https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
+https://raw.githubusercontent.com/xorcan/hosts/master/xips.txt
+```
 
 ![bunun gibi](./bilgi1.png)
 
-- Ardından sağ üstte beliren "Değişiklikleri Kaydet" düğmesine tıklayarak sayfadan çıkabilirsiniz. 
-- Artık ayarlar sayfasına girip "Güncelle" tuşuna basmanıza gerek yok. Liste diğer listelerin yaptığı gibi belli aralıklarla kendini güncelleyecektir. 
+- Ardından sağ üstte beliren **"Değişiklikleri Kaydet"** düğmesine tıklayarak sayfadan çıkabilirsiniz. 
+- Artık ayarlar sayfasına girip **"Güncelle"** tuşuna basmanıza gerek yok. Liste diğer listelerin yaptığı gibi belli aralıklarla kendini güncelleyecektir. 
 
 ## Ayarlamalarınız Bittiğinde Şöyle Görünmelidir:
 
@@ -32,7 +33,9 @@ AdAway ile kullanınız. -çoğunlukla- Android için tasarlanmıştır. Daha ö
 
 ## Windows için Önerilmeyen nedir?
 
-- Aşağıdaki adrese girerek listenin tamamını kopyalayın:
+**Bu yalnızca gelişmiş kullanıcılar içindir. Ne olduğunu bilmiyorsanız bu ayarı yapmayın!**
+
+Aşağıdaki adrese girerek listenin tamamını kopyalayın:
 
 ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
 
@@ -45,19 +48,19 @@ AdAway ile kullanınız. -çoğunlukla- Android için tasarlanmıştır. Daha ö
 
 Ücretsiz yazılımlar genelde hosts seviyesinde reklam engelleyebilmekte ve çoğu zaman uygulamalarda reklamları engelleyememektedir. 
 
-### Android için AdGuard (ÜCRETLİ)
+### Android için AdGuard // ücretli - cihaz kök-erişimli değilse
 Android için AdGuard yazılımı bu konuda en iyisi denilebilir. Ücretli (Premium) sürümde birçok filtre kullanma imkanı size sunuyor ve daha gelişmiş bir reklam engelleme teknolojisi kullanıyor. Dediğim gibi bu uygulama ücretlidir ve [Google reklam politikalarının işine gelmedeği için Google Play'den kaldırılmıştır](https://blog.adguard.com/en/google-removes-adguard-android-app-google-play/).
-+ [Android için AdGuard](https://adguard.com/tr/adguard-android/overview.html)
-+ Kurulum ve kullanımı kolaydır, ROOT gerektirmez.
-+ 14 gün ücretsiz tam sürümü deneyebilirsiniz,
-+ Ayarlardan istediğiniz filtreleri (yukarıdaki filtrelerin aynılarını) etkinleştirebilirsiniz.
-+ Filtreleme yöntemini "Yüksek Kaliteli" yapın.
-+ HTTPS kullanan reklam ağlarını ve uygulamaları (Youtube reklamları gibi) engelleyebilir.
+- [Android için AdGuard](https://adguard.com/tr/adguard-android/overview.html)
+- Kurulum ve kullanımı kolaydır, ROOT gerektirmez.
+- 14 gün ücretsiz tam sürümü deneyebilirsiniz,
+- Ayarlardan istediğiniz filtreleri (yukarıdaki filtrelerin aynılarını) etkinleştirebilirsiniz.
+- Filtreleme yöntemini "Yüksek Kaliteli" yapın.
+- HTTPS kullanan reklam ağlarını ve uygulamaları (Youtube reklamları gibi) engelleyebilir.
 
 Root erişim izniniz varsa telefonun kendi "hosts" dosyasını değiştirmelisiniz. Bu, batarya ve RAM tasarrufu sağlar.
 Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
 
-### DNS66 (ÜCRETSİZ - Cihaz 'ROOTLU' değilse)
+### DNS66 // ücretsiz - cihaz kök-erişimli değilse
 
 Telefonunuzda root işlemi yapmak zor ve riskli olabilir. Telefonunuzu garanti kapsamı dışına çıkarabilir. Telefonunuz root edilmemiş ise aşağıdaki adımlarla reklamları engelleyebilirsiniz.
 
@@ -72,7 +75,7 @@ Telefonunuzda root işlemi yapmak zor ve riskli olabilir. Telefonunuzu garanti k
 - Start/Stop menüsüne geçin, ekrana uzunca dokunun ve filtrelemeyi etkinleştirin.
 - Eğer bildirim alanında anahtar işareti görüyorsanız, filtrelerimiz etkindir. Reklamsız gezinebilirsiniz.
 
-### AdAway (Root)
+### AdAway (Root) // ücretsiz, önerilen, şarj dostu. cihazınız kök-erişimliyse kesinlikle bu yöntemi kullanın.
 
 - AdAway uygulamasını [buradan](https://github.com/AdAway/AdAway/releases) (Assets kısmındaki ".apk" uzantılı ve her zaman en üsttteki dosyayı) indirin.
 - Uygulamayı telefonunuza veya tabletinize kurun.
@@ -81,19 +84,15 @@ Telefonunuzda root işlemi yapmak zor ve riskli olabilir. Telefonunuzu garanti k
 - Aşağıdaki adreslerden **olmayanları** kopyalayıp bu kısma yapıştırın ve ekleyin.
 - (Bunlar benim önerilerim ve normal Android kullanıcıları için yeterlidir. Ben daha fazla istiyorum diyorsanız [şuraya](https://github.com/xorcan/hosts/blob/master/OTHERS.md) bakabilirsiniz.)
 
-```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
-
-```https://adaway.org/hosts.txt```
-
-```https://hosts-file.net/ad_servers.txt```
-
-```https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext```
-
-```https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts```
-
-```https://someonewhocares.org/hosts/hosts```
-
-```https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt```
+```
+https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
+https://adaway.org/hosts.txt
+https://hosts-file.net/ad_servers.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://someonewhocares.org/hosts/hosts
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+```
 
 - Ana menüye dönün, güncellemeleri denetleyip uygulayın. Cihazınızı yeniden başlatın.
 
@@ -101,13 +100,12 @@ Telefonunuzda root işlemi yapmak zor ve riskli olabilir. Telefonunuzu garanti k
 
 Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olarak kullanmış olursunuz. Endişe etmeyin, onlar da sürekli en güncel halinde olacaklar. Anlayacağınız bunları eklemenize gerek yok.
 
-```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt```
-
-```https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts```
-
-```https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts```
-
-```https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt```
+```
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt
+https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
+https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt
+```
 
 ## [Diğer listeler](https://github.com/xorcan/hosts/blob/master/OTHERS.md)
 
