@@ -43,8 +43,8 @@ Free software can generally block advertisements at the hosts level and most of 
 
 ### AdGuard for Android // paid - if the device is not root-accessible
 
-AdGuard software for Android can be said to be the best in this regard. It offers you the possibility to use many filters in the paid (Premium) version and uses a more advanced ad blocking technology. As I said, this app is paid and [has been removed from Google Play because Google ad policies didn't work for it] (https://blog.adguard.com/en/google-removes-adguard-android-app-google-play/).
-- [AdGuard for Android] (https://adguard.com/tr/adguard-android/overview.html)
+AdGuard software for Android can be said to be the best in this regard. It offers you the possibility to use many filters in the paid (Premium) version and uses a more advanced ad blocking technology. As I said, this app is paid and [has been removed from Google Play because Google ad policies didn't work for it](https://blog.adguard.com/en/google-removes-adguard-android-app-google-play/).
+- [AdGuard for Android](https://adguard.com/tr/adguard-android/overview.html)
 - Easy to install and use, no ROOT required.
 - You can try the full version for free for 14 days,
 - You can enable any filters (same as above) from the settings.
@@ -55,7 +55,7 @@ AdGuard software for Android can be said to be the best in this regard. It offer
 
 Rooting your phone can be difficult and risky. It may take your phone out of warranty. If your phone is not rooted, you can block ads with the steps below.
 
-- Download [DNS66] (https://github.com/julian-klode/dns66/releases) application (".apk" extension in Assets section and always the top file).
+- Download [DNS66](https://github.com/julian-klode/dns66/releases) application (".apk" extension in Assets section and always the top file).
 - Allow unknown sources warning. Install the application on your phone / tablet.
 - Open the application, tap the "Domain Filters" tab at the bottom.
 - Tap the plus (plus) icon at the bottom right and type the following values.
