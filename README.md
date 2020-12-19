@@ -121,11 +121,7 @@ Burada belirtilen durumlar dosyalarda bulunmadığı için manuel olarak ayarlam
 
 ## Rahatsız Siteyi Nasıl Bildireceğim?
 
-Engellenmesini uygun gördüğünüz siteleri bildirin, listeye ekleyelim ki diğer insanlar bunlarla uğraşmasınlar. 
-
-1. [Hatalar](https://github.com/xorcan/hosts/issues) kısmından bildirebilirsiniz.
-2. [Posta](mailto:xorcan@protonmail.com) ile bildirebilirsiniz.
-3. [Anonim (girişsiz) posta](https://anonymousemail.me) ile ```xorcan@protonmail.com``` adresine bildirebilirsiniz.
+Engellenmesini uygun gördüğünüz siteleri [Hatalar](https://github.com/xorcan/hosts/issues) kısmından bildirin, listeye ekleyelim ki diğer insanlar bunlarla uğraşmasınlar. 
 
 ## Uyarı
 
