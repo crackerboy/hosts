@@ -7,6 +7,8 @@
 
 Use with AdAway. Designed for -mostly- Android. I have recommended Nano Adblocker before. Remove nano **from your devices** and install **ublock origin**. Because nano adblocker is now a virus!
 
+Detailed information (Turkish): [bilgiler 1](https://eksisozluk.com/nano-defender--5646917?a=nice) - [bilgiler 2](https://eksisozluk.com/nano-adblocker--5649314?a=nice)
+
 ## What is Recommended for Windows?
 
 - You can effectively filter element by using [uBlock Origin](https://github.com/gorhill/uBlock) in your browser. To do so, first obtain the one for your browser: [for Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=tr) - 
