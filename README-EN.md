@@ -120,11 +120,7 @@ The conditions specified here must be set manually, as they are not included in 
 
 ## How do I report a annoying site?
 
-Report sites that you deem appropriate, let's add them to the list so other people don't deal with them.
-
-1. Report with using [Issues](https://github.com/xorcan/hosts/issues).
-2. Report with using [e-Mail](mailto:xorcan@protonmail.com).
-3. Report with using [Anonymous (without login) mail](https://anonymousemail.me) to ```xorcan@protonmail.com```.
+[Report](https://github.com/xorcan/hosts/issues) sites that you deem appropriate, let's add them to the list so other people don't deal with them.
 
 ## Warning
 
