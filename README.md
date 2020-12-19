@@ -12,7 +12,7 @@ Ayrıntılı bilgi: [bilgiler 1](https://eksisozluk.com/nano-defender--5646917?a
 ## Windows için Önerilen
 
 - İnternet tarayıcınızda [ublock origin](https://github.com/gorhill/uBlock) kullanarak etkin bir şekilde element filtrelemesi yapabilirsiniz. Bunun için öncelikle tarayıcınız için olanını edinin: [Chrome için](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=tr) - 
-[Firefox için](https://addons.mozilla.org/tr/firefox/addon/ublock-origin/) - [Edge için](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) - [Opera için](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak))
+[Firefox için](https://addons.mozilla.org/tr/firefox/addon/ublock-origin/) - [Edge için](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) - [Opera için](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
 
 - Ardından **ublock origin > Kontrol Paneli > Süzgeç Listeleri > İçe Aktar (en altta)** bölümünden açılan url ekleme kutusuna şu linkleri ekleyin:
 
@@ -42,7 +42,6 @@ Aşağıdaki adrese girerek listenin tamamını kopyalayın:
 - Bilgisayarınızda C:\Windows\System32\drivers\etc konumundaki hosts dosyasını bulun.
 - hosts dosyasını notepad++ ile açarak listeyi buraya yapıştırın ve kaydedip çıkın.
 - Bilgisayarınızı yeniden başlatın.
-- NOT: Windows için beyazliste'yi ekleyemeyeceğiniz için sadece xhosts.txt dosyasını kullacaksınız.
 
 ## Android için Seçenekler
 
@@ -56,9 +55,6 @@ Android için AdGuard yazılımı bu konuda en iyisi denilebilir. Ücretli (Prem
 - Ayarlardan istediğiniz filtreleri (yukarıdaki filtrelerin aynılarını) etkinleştirebilirsiniz.
 - Filtreleme yöntemini "Yüksek Kaliteli" yapın.
 - HTTPS kullanan reklam ağlarını ve uygulamaları (Youtube reklamları gibi) engelleyebilir.
-
-Root erişim izniniz varsa telefonun kendi "hosts" dosyasını değiştirmelisiniz. Bu, batarya ve RAM tasarrufu sağlar.
-Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
 
 ### DNS66 // ücretsiz - cihaz kök-erişimli değilse
 
@@ -75,7 +71,10 @@ Telefonunuzda root işlemi yapmak zor ve riskli olabilir. Telefonunuzu garanti k
 - Start/Stop menüsüne geçin, ekrana uzunca dokunun ve filtrelemeyi etkinleştirin.
 - Eğer bildirim alanında anahtar işareti görüyorsanız, filtrelerimiz etkindir. Reklamsız gezinebilirsiniz.
 
-### AdAway (Root) // ücretsiz, önerilen, şarj dostu. cihazınız kök-erişimliyse kesinlikle bu yöntemi kullanın.
+### AdAway (Root) // ücretsiz, önerilen, şarj dostu, cihaz kök-erişimliyse
+
+Root erişim izniniz varsa telefonun kendi "hosts" dosyasını değiştirmelisiniz. Bu, batarya ve RAM tasarrufu sağlar.
+Kök erişim (root) izniniz varsa AdAway uygulamasını kullanabilirsiniz. Host dosyaları ile reklam engelleyen ücretsiz bir uygulamadır.
 
 - AdAway uygulamasını [buradan](https://github.com/AdAway/AdAway/releases) (Assets kısmındaki ".apk" uzantılı ve her zaman en üsttteki dosyayı) indirin.
 - Uygulamayı telefonunuza veya tabletinize kurun.
