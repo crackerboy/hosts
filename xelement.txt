@@ -1,9 +1,9 @@
-! Title: nurcan Türk element-ad-list
+! Title: xorcan Türk element-ad-list
 ! Format: Element Bloklist
-! Expires: 1 days
+! Expires: 9 days
 ! Homepage: https://github.com/xorcan/hosts
-! Released: 28.07.2020
-! Entries: 3663
+! Released: 19.12.2020
+! Entries: 3853
 ! Details: https://github.com/xorcan/hosts
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -97,11 +97,16 @@
 ##.rnews > div:nth-of-type(9) > div.adsLoad.akAds
 ##.side > div.adsLoad.akAds
 ##.ss-ic.s_stk
+##[href="bc.vc/SuiXx6p/"]
 ##[href="bestdatingclubs.com"]
 ##[href="betonbetaffiliates.com"]
 ##[href="betonbetaffiliates.com/"]
 ##[href="bit.ly/2InAbq9"]
 ##[href="bit.ly/2InAbq9/"]
+##[href="bit.ly/2yxDkm6"]
+##[href="bit.ly/2yxDkm6/"]
+##[href="bit.ly/34cjOcn"]
+##[href="bit.ly/34cjOcn/"]
 ##[href="bit.ly/393D1MF"]
 ##[href="bit.ly/393D1MF/"]
 ##[href="bit.ly/3ay8bwh"]
@@ -112,17 +117,29 @@
 ##[href="bursaescortss-allescortservices-com.cdn.ampproject.org/c/bursaescortss.allescortservices.com/amp"]
 ##[href="bursaescortss-allescortservices-com.cdn.ampproject.org/c/bursaescortss.allescortservices.com/amp/"]
 ##[href="bursaescortss.allescortservices.com/"]
+##[href="canikom.space"]
+##[href="canikom.space/"]
 ##[href="cepsohbetler13.online"]
 ##[href="cepsohbetler13.online/"]
 ##[href="cepsohbetler13.online/232"]
+##[href="ekitapcilarr.com"]
+##[href="ekitapcilarr.com/"]
 ##[href="erotiksohbeti.com"]
 ##[href="erotiksohbeti.com/"]
 ##[href="gndrglsn.com"]
 ##[href="gndrglsn.com/"]
+##[href="haber.dev"]
+##[href="haber.dev/"]
+##[href="http://bc.vc/SuiXx6p"]
+##[href="http://bc.vc/SuiXx6p/"]
 ##[href="http://betonbetaffiliates.com"]
 ##[href="http://betonbetaffiliates.com/"]
 ##[href="http://bit.ly/2InAbq9"]
 ##[href="http://bit.ly/2InAbq9/"]
+##[href="http://bit.ly/2yxDkm6"]
+##[href="http://bit.ly/2yxDkm6/"]
+##[href="http://bit.ly/34cjOcn"]
+##[href="http://bit.ly/34cjOcn/"]
 ##[href="http://bit.ly/393D1MF"]
 ##[href="http://bit.ly/393D1MF/"]
 ##[href="http://bit.ly/3ay8bwh"]
@@ -134,9 +151,13 @@
 ##[href="http://bursaescortss-allescortservices-com.cdn.ampproject.org/c/bursaescortss.allescortservices.com/amp"]
 ##[href="http://bursaescortss-allescortservices-com.cdn.ampproject.org/c/bursaescortss.allescortservices.com/amp/"]
 ##[href="http://bursaescortss.allescortservices.com/"]
+##[href="http://canikom.space"]
+##[href="http://canikom.space/"]
 ##[href="http://cepsohbetler13.online"]
 ##[href="http://cepsohbetler13.online/"]
 ##[href="http://cepsohbetler13.online/232"]
+##[href="http://ekitapcilarr.com"]
+##[href="http://ekitapcilarr.com/"]
 ##[href="http://erotiksohbeti.com"]
 ##[href="http://erotiksohbeti.com/"]
 ##[href="http://funzcdn.com/fp"]
@@ -147,10 +168,15 @@
 ##[href="http://funzcdn.com/pop/"]
 ##[href="http://gndrglsn.com"]
 ##[href="http://gndrglsn.com/"]
+##[href="http://haber.dev"]
+##[href="http://haber.dev/"]
+##[href="http://http://bc.vc/SuiXx6p"]
 ##[href="http://istanbulmoney.com"]
 ##[href="http://istanbulmoney.com/"]
 ##[href="http://istanbulmoney.com/amp"]
 ##[href="http://istanbulmoney.com/amp/"]
+##[href="http://kulturpark.net"]
+##[href="http://kulturpark.net/"]
 ##[href="http://ncmfck.com"]
 ##[href="http://ncmfck.com/"]
 ##[href="http://newhaber.net"]
@@ -159,17 +185,32 @@
 ##[href="http://newhaber.net/goplay.php/"]
 ##[href="http://nirvanam.xyz"]
 ##[href="http://nirvanam.xyz/"]
+##[href="http://onsekizurunleri.online"]
+##[href="http://onsekizurunleri.online/"]
 ##[href="http://partneralimi.xyz"]
 ##[href="http://partneralimi.xyz/"]
 ##[href="http://turkiyecinselbayisi.site"]
 ##[href="http://turkiyecinselbayisi.site/"]
 ##[href="http://turkiyecinselbayisi.site/snake1"]
 ##[href="http://turkiyecinselbayisi.site/snake1/"]
+##[href="http://vitrinlerim.xyz"]
+##[href="http://vitrinlerim.xyz/"]
+##[href="http://www.bc.vc/SuiXx6p/"]
 ##[href="http://www.betonbetaffiliates.com"]
 ##[href="http://www.betonbetaffiliates.com/"]
+##[href="http://www.bit.ly/2yxDkm6"]
+##[href="http://www.bit.ly/2yxDkm6/"]
+##[href="http://www.bit.ly/34cjOcn"]
+##[href="http://www.bit.ly/34cjOcn/"]
 ##[href="http://www.bnninc.net"]
 ##[href="http://www.bnninc.net/"]
 ##[href="http://www.bursaescortss.allescortservices.com/"]
+##[href="http://www.canikom.space"]
+##[href="http://www.canikom.space/"]
+##[href="http://www.cepsohbetler13.online"]
+##[href="http://www.cepsohbetler13.online/"]
+##[href="http://www.ekitapcilarr.com"]
+##[href="http://www.ekitapcilarr.com/"]
 ##[href="http://www.erotiksohbeti.com"]
 ##[href="http://www.erotiksohbeti.com/"]
 ##[href="http://www.funzcdn.com/fp"]
@@ -180,10 +221,15 @@
 ##[href="http://www.funzcdn.com/pop/"]
 ##[href="http://www.gndrglsn.com"]
 ##[href="http://www.gndrglsn.com/"]
+##[href="http://www.haber.dev"]
+##[href="http://www.haber.dev/"]
+##[href="http://www.http://bc.vc/SuiXx6p"]
 ##[href="http://www.istanbulmoney.com"]
 ##[href="http://www.istanbulmoney.com/"]
 ##[href="http://www.istanbulmoney.com/amp"]
 ##[href="http://www.istanbulmoney.com/amp/"]
+##[href="http://www.kulturpark.net"]
+##[href="http://www.kulturpark.net/"]
 ##[href="http://www.ncmfck.com"]
 ##[href="http://www.ncmfck.com/"]
 ##[href="http://www.newhaber.net"]
@@ -193,15 +239,24 @@
 ##[href="http://www.newhaber.net/serp.php"]
 ##[href="http://www.nirvanam.xyz"]
 ##[href="http://www.nirvanam.xyz/"]
+##[href="http://www.onsekizurunleri.online"]
+##[href="http://www.onsekizurunleri.online/"]
 ##[href="http://www.partneralimi.xyz"]
 ##[href="http://www.partneralimi.xyz/"]
+##[href="http://www.vitrinlerim.xyz"]
+##[href="http://www.vitrinlerim.xyz/"]
 ##[href="https://amzn.to/372nuwo"]
+##[href="https://bc.vc/SuiXx6p/"]
 ##[href="https://betonbetaffiliates.com"]
 ##[href="https://betonbetaffiliates.com/"]
 ##[href="https://bit.ly/2InAbq9"]
 ##[href="https://bit.ly/2InAbq9/"]
 ##[href="https://bit.ly/2JXWfeT"]
 ##[href="https://bit.ly/2xS37Va"]
+##[href="https://bit.ly/2yxDkm6"]
+##[href="https://bit.ly/2yxDkm6/"]
+##[href="https://bit.ly/34cjOcn"]
+##[href="https://bit.ly/34cjOcn/"]
 ##[href="https://bit.ly/393D1MF"]
 ##[href="https://bit.ly/393D1MF/"]
 ##[href="https://bit.ly/3ay8bwh"]
@@ -213,9 +268,13 @@
 ##[href="https://bursaescortss-allescortservices-com.cdn.ampproject.org/c/bursaescortss.allescortservices.com/amp"]
 ##[href="https://bursaescortss-allescortservices-com.cdn.ampproject.org/c/bursaescortss.allescortservices.com/amp/"]
 ##[href="https://bursaescortss.allescortservices.com/"]
+##[href="https://canikom.space"]
+##[href="https://canikom.space/"]
 ##[href="https://cepsohbetler13.online"]
 ##[href="https://cepsohbetler13.online/"]
 ##[href="https://cepsohbetler13.online/232"]
+##[href="https://ekitapcilarr.com"]
+##[href="https://ekitapcilarr.com/"]
 ##[href="https://erotiksohbeti.com"]
 ##[href="https://erotiksohbeti.com/"]
 ##[href="https://funzcdn.com/fp"]
@@ -226,11 +285,16 @@
 ##[href="https://funzcdn.com/pop/"]
 ##[href="https://gndrglsn.com"]
 ##[href="https://gndrglsn.com/"]
+##[href="https://haber.dev"]
+##[href="https://haber.dev/"]
+##[href="https://http://bc.vc/SuiXx6p"]
 ##[href="https://ihlasvakfi.org.tr/bagis/#Kurban2020"]
 ##[href="https://istanbulmoney.com"]
 ##[href="https://istanbulmoney.com/"]
 ##[href="https://istanbulmoney.com/amp"]
 ##[href="https://istanbulmoney.com/amp/"]
+##[href="https://kulturpark.net"]
+##[href="https://kulturpark.net/"]
 ##[href="https://ncmfck.com"]
 ##[href="https://ncmfck.com/"]
 ##[href="https://newhaber.net"]
@@ -239,6 +303,8 @@
 ##[href="https://newhaber.net/goplay.php/"]
 ##[href="https://nirvanam.xyz"]
 ##[href="https://nirvanam.xyz/"]
+##[href="https://onsekizurunleri.online"]
+##[href="https://onsekizurunleri.online/"]
 ##[href="https://partneralimi.xyz"]
 ##[href="https://partneralimi.xyz/"]
 ##[href="https://rebrand.ly/9be06"]
@@ -247,13 +313,26 @@
 ##[href="https://turkiyecinselbayisi.site/"]
 ##[href="https://turkiyecinselbayisi.site/snake1"]
 ##[href="https://turkiyecinselbayisi.site/snake1/"]
+##[href="https://vitrinlerim.xyz"]
+##[href="https://vitrinlerim.xyz/"]
 ##[href="https://whatsapp.rlink.live/"]
 ##[href="https://www.ardream.world"]
+##[href="https://www.bc.vc/SuiXx6p/"]
 ##[href="https://www.betonbetaffiliates.com"]
 ##[href="https://www.betonbetaffiliates.com/"]
+##[href="https://www.bit.ly/2yxDkm6"]
+##[href="https://www.bit.ly/2yxDkm6/"]
+##[href="https://www.bit.ly/34cjOcn"]
+##[href="https://www.bit.ly/34cjOcn/"]
 ##[href="https://www.bnninc.net"]
 ##[href="https://www.bnninc.net/"]
 ##[href="https://www.bursaescortss.allescortservices.com/"]
+##[href="https://www.canikom.space"]
+##[href="https://www.canikom.space/"]
+##[href="https://www.cepsohbetler13.online"]
+##[href="https://www.cepsohbetler13.online/"]
+##[href="https://www.ekitapcilarr.com"]
+##[href="https://www.ekitapcilarr.com/"]
 ##[href="https://www.erotiksohbeti.com"]
 ##[href="https://www.erotiksohbeti.com/"]
 ##[href="https://www.funzcdn.com/fp"]
@@ -264,10 +343,15 @@
 ##[href="https://www.funzcdn.com/pop/"]
 ##[href="https://www.gndrglsn.com"]
 ##[href="https://www.gndrglsn.com/"]
+##[href="https://www.haber.dev"]
+##[href="https://www.haber.dev/"]
+##[href="https://www.http://bc.vc/SuiXx6p"]
 ##[href="https://www.istanbulmoney.com"]
 ##[href="https://www.istanbulmoney.com/"]
 ##[href="https://www.istanbulmoney.com/amp"]
 ##[href="https://www.istanbulmoney.com/amp/"]
+##[href="https://www.kulturpark.net"]
+##[href="https://www.kulturpark.net/"]
 ##[href="https://www.ncmfck.com"]
 ##[href="https://www.ncmfck.com/"]
 ##[href="https://www.newhaber.net"]
@@ -276,14 +360,20 @@
 ##[href="https://www.newhaber.net/goplay.php/"]
 ##[href="https://www.nirvanam.xyz"]
 ##[href="https://www.nirvanam.xyz/"]
+##[href="https://www.onsekizurunleri.online"]
+##[href="https://www.onsekizurunleri.online/"]
 ##[href="https://www.partneralimi.xyz"]
 ##[href="https://www.partneralimi.xyz/"]
 ##[href="https://www.peple.com.tr/"]
 ##[href="https://www.popmobil.xyz/git.php"]
+##[href="https://www.vitrinlerim.xyz"]
+##[href="https://www.vitrinlerim.xyz/"]
 ##[href="istanbulmoney.com"]
 ##[href="istanbulmoney.com/"]
 ##[href="istanbulmoney.com/amp"]
 ##[href="istanbulmoney.com/amp/"]
+##[href="kulturpark.net"]
+##[href="kulturpark.net/"]
 ##[href="ncmfck.com"]
 ##[href="ncmfck.com/"]
 ##[href="newhaber.net"]
@@ -292,21 +382,41 @@
 ##[href="newhaber.net/goplay.php/"]
 ##[href="nirvanam.xyz"]
 ##[href="nirvanam.xyz/"]
+##[href="onsekizurunleri.online"]
+##[href="onsekizurunleri.online/"]
 ##[href="partneralimi.xyz"]
 ##[href="partneralimi.xyz/"]
+##[href="vitrinlerim.xyz"]
+##[href="vitrinlerim.xyz/"]
+##[href="www.bc.vc/SuiXx6p/"]
 ##[href="www.betonbetaffiliates.com"]
 ##[href="www.betonbetaffiliates.com/"]
+##[href="www.bit.ly/2yxDkm6"]
+##[href="www.bit.ly/2yxDkm6/"]
+##[href="www.bit.ly/34cjOcn"]
+##[href="www.bit.ly/34cjOcn/"]
 ##[href="www.bnninc.net"]
 ##[href="www.bnninc.net/"]
 ##[href="www.bursaescortss.allescortservices.com/"]
+##[href="www.canikom.space"]
+##[href="www.canikom.space/"]
+##[href="www.cepsohbetler13.online"]
+##[href="www.cepsohbetler13.online/"]
+##[href="www.ekitapcilarr.com"]
+##[href="www.ekitapcilarr.com/"]
 ##[href="www.erotiksohbeti.com"]
 ##[href="www.erotiksohbeti.com/"]
 ##[href="www.gndrglsn.com"]
 ##[href="www.gndrglsn.com/"]
+##[href="www.haber.dev"]
+##[href="www.haber.dev/"]
+##[href="www.http://bc.vc/SuiXx6p"]
 ##[href="www.istanbulmoney.com"]
 ##[href="www.istanbulmoney.com/"]
 ##[href="www.istanbulmoney.com/amp"]
 ##[href="www.istanbulmoney.com/amp/"]
+##[href="www.kulturpark.net"]
+##[href="www.kulturpark.net/"]
 ##[href="www.ncmfck.com"]
 ##[href="www.ncmfck.com/"]
 ##[href="www.newhaber.net"]
@@ -315,8 +425,12 @@
 ##[href="www.newhaber.net/goplay.php/"]
 ##[href="www.nirvanam.xyz"]
 ##[href="www.nirvanam.xyz/"]
+##[href="www.onsekizurunleri.online"]
+##[href="www.onsekizurunleri.online/"]
 ##[href="www.partneralimi.xyz"]
 ##[href="www.partneralimi.xyz/"]
+##[href="www.vitrinlerim.xyz"]
+##[href="www.vitrinlerim.xyz/"]
 ##[href^="10dfjhvbdfhv.xyz"]
 ##[href^="1xbet-won.com"]
 ##[href^="4club.reisen/landing"]
@@ -1811,6 +1925,7 @@
 ##[href^="tel://002378000305"]
 ##[href^="tel://002378000308"]
 ##[href^="tel://002378000331"]
+##[href^="tel://002378000333"]
 ##[href^="tel://00237800036"]
 ##[href^="tel://00237800037"]
 ##[href^="tel://0023780005"]
@@ -1913,6 +2028,7 @@
 ##[href^="tel:002378000305"]
 ##[href^="tel:002378000308"]
 ##[href^="tel:002378000331"]
+##[href^="tel:002378000333"]
 ##[href^="tel:00237800036"]
 ##[href^="tel:00237800037"]
 ##[href^="tel:0023780005"]
@@ -2490,6 +2606,8 @@ booksurfers.co.uk##.waves-light.waves-effect.btn-danger.font-weight-bold.btn-lg.
 booksurfers.co.uk##.waves-light.waves-effect.btn-primary.font-weight-bold.btn-lg.btn
 borsagundem.com##center > div > div:nth-of-type(1)
 borsagundem.com##center > div > div:nth-of-type(2)
+btstation.com##.title > [href^="https://www.wdztai.com/"]
+btstation.com##[href^="https://www.wdztai.com/"]
 cdn.ampproject.org###iAlert
 cdn.ampproject.org##.Fclick
 cdn.ampproject.org##.reklamorta
@@ -2519,6 +2637,9 @@ chaicdn.com*/3.gif$image
 comparatives.cumleleri.com##.clearfix.hentry.type-page > div:nth-of-type(1) > .adsbygoogle
 comparatives.cumleleri.com##div:nth-of-type(2) > .adsbygoogle
 comss.ru##div > .adsbygoogle
+deepsukebe.io##.items-center.justify-center.bottom2.row
+deepsukebe.io##.items-center.justify-center.bottom3.row
+deepsukebe.io##.q-card.q-dialog-plugin
 dekordiyon.com###eaa_post_after_content > .eaa-ad
 dekordiyon.com###eaa_post_after_first_img > .eaa-ad
 dekordiyon.com###eaa_post_after_second_img > .eaa-ad
@@ -2540,6 +2661,8 @@ eksisozluk.com###open-ad-tab
 eksisozluk.com##.ads-trendyol.anim-text-flow
 eksisozluk.com##.detail
 eksisozluk.com##.under-top-ad
+eksisozluk.com##[href^="https://trendyol.com"]
+eksisozluk.com##[href^="https://www.trendyol.com"]
 eksisozluk.com##li[data-author=pena]
 eksisozluk.com##li[data-author=reklam]
 eksisozluk.com##li[data-author=sponsorlu]
@@ -2554,10 +2677,16 @@ filmkovani.com###lznjhydxqkbr
 filmkovani.com##[href^="https://bgel.ncmfck.com/"]
 filmw.org##.hoverZoomLink.loaded
 flirtsexmeet.info##*
+forum.turkanime.tv##.ipsJS_hide.ipsPad_half
 fullhdfilmsitesi.pw##*
 fullprogramlarindir.com​###yenidosya_indir
 genealogic.review##.forcefullwidth_wrapper_tp_banner
 genealogic.review##.rowcenter.hidden-sm.hidden-xs.row
+gomovies-online.com###g_OkygQXIHOBrCzUHOaOkWtNqR
+gomovies-online.com###g_OkygQXIHOBrCzUHOaOkWtNqR > [href="/user/profile/premium-membership"]
+gomovies-online.com##.g_FykXtctLBNBQMSbJUIBuvDJf [href] > [src]
+gomovies-online.com##.sadhjasdjkASDd
+haber.dev^$popup
 harikaseks.info##.ivr
 harikaseks.info##.ivr > p
 hilelioyun.net##div.reklam-sag:nth-of-type(1)
@@ -2571,10 +2700,33 @@ hottg.com##div.adad:nth-of-type(8) > .adsbygoogle
 hottg.com##div:nth-of-type(1) > .adsbygoogle
 hottg.com##div:nth-of-type(5) > .adsbygoogle
 http://*.wp.com/goo.gl/kud8Zc
+http://7yo3zb.esipaper.net/tpl_user1.php^$popup
+http://bc.vc/SuiXx6p^$popup
+http://canikom.space/h8b8_1582416354^$popup
+http://cdn.eviewporn.com/media/ivr/vidalts.gif
 https://*.wp.com/goo.gl/kud8Zc
+https://bit.ly/2yxDkm6^$popup
+https://bit.ly/34cjOcn^$popup
+https://cdn-evooli-com.cdn.ampproject.org/ii/w820/s/cdn.evooli.com/wp-content/uploads/ivr-img-bar.gif
 https://cdn-paylas-vip.cdn.ampproject.org/ii/w820/s/cdn.paylas.vip/banners/ivr-img-bar.gif
+https://cepsohbetler13.online*^$popup
+https://esc-bodrumariza-com.cdn.ampproject.org/c/esc.bodrumariza.com/amp/category/aydinsokeescort/
+https://finema-net.cdn.ampproject.org/r/s/finema.net/i/bg/5bg.mp4
+https://hdabla-net.cdn.ampproject.org/ii/w820/s/hdabla.net/wp-content/uploads/ac/ana3.gif
+https://hdabla-net.cdn.ampproject.org/ii/w820/s/hdabla.net/wp-content/uploads/tst/c1.gif
+https://m.betwin26251.top/poker/?btag=d_10926m_277422c_bw_Q8rz7T7xHKunKwiJzw2SX1
+https://mecklins.net/tpl_user1.php
+https://miami-evooli-com.cdn.ampproject.org/ii/w680/s/miami.evooli.com/wp-content/uploads/bla-snk.gif
+https://miami-evooli-com.cdn.ampproject.org/ii/w820/s/miami.evooli.com/wp-content/uploads/4x.gif
+https://miami-evooli-com.cdn.ampproject.org/ii/w820/s/miami.evooli.com/wp-content/uploads/ivr-hot2.gif
+https://olht.mobilhdizle.com/lp/?lID=FZAzbE1vKW
+https://onsekizurunleri.online*^$popup
 https://telegramchannels.me/storage/prs/*.svg^$image
 https://webteizle.vip/i/vid-onu.mp4$media
+https://www-izmirlitv-com.cdn.ampproject.org/c/www.izmirlitv.com/amp/
+https://www.bahsegel263.com/tr?partner=p294p9679p3225#signup
+https://www.haber.dev^$popup
+https://www.linkonclick.com/jump/next.php?r=3858511^popup
 incisozluk.com.tr###b-masthead
 iskysoft.com###POYTY
 itemist.com##*
@@ -2594,7 +2746,10 @@ mangallama.com###livesearchm
 moradu.com##*
 morfilmizle.com###amans
 morfilmizle.com##[src="https://www.youtube.com/embed/UHb86zXgsG4"]
+onsekizurunleri.online*^$popup
 pampikcim.xyz##.wrap
+parrotlinux.org##.preloader
+parrotsec.org##.preloader
 pcgamer.site/*/*/images/background_video.mp4$media
 pdfkitapp.com##.swal2-in.swal2-fade.swal2-container
 polisaskeradaylari.com##div.ads:nth-of-type(3) > div > .adsbygoogle
@@ -2626,6 +2781,8 @@ sexzun.com##a.kon:nth-of-type(1) > .kon
 sexzun.com##a.kon:nth-of-type(2) > .kon
 solidshare.net###baslik
 solidshare.net##div.main:nth-of-type(1)
+solidshare.online###baslik
+solidshare.online##div.main:nth-of-type(1)
 tarihiyolculuk.com##div.cookie-policy-footer
 telegramchannels.me###btm-pr
 telegramchannels.me​###pr-a
@@ -2647,6 +2804,8 @@ torrentz2.is##.downlinks > dl:nth-of-type(1)
 torrentz2.is##.NonToleratedds
 torrentz2.is##.xpressa
 torrentz2.is##[href="/lorem2/xy/"]
+tr.bongacams7.com##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
+tr.bongacams7.com##.fancybox-overlay-fixed.fancybox-overlay
 tr.link##.sweet-overlay
 tr.link##.visible.showSweetAlert.sweet-alert
 turkanime.net##div.col-xs-6:nth-of-type(2)
@@ -2655,6 +2814,17 @@ turkcealtyazi.org##.ncenter.nm-block > .adsbygoogle
 turkcealtyazi.org##.ncorner-bottom.main-center > .adsbygoogle
 turkcealtyazi.org##.nright.ana-sag-blok > .adsbygoogle
 ucosi.com##.single-header
+uludagsozluk.com###main > [href^="https://www.hepsiburada.com/staticpage/146491752208051"]
+uludagsozluk.com##.h1_by
+uludagsozluk.com##[href^="https://www.hepsiburada.com/bluetooth-kulakliklar-c-16218"]
+uludagsozluk.com##[href^="https://www.hepsiburada.com/efsane-cuma"]
+uludagsozluk.com##[href^="https://www.hepsiburada.com/iphone-ios-telefonlar-c-60005202"]
+uludagsozluk.com##[href^="https://www.hepsiburada.com/kampanyalar/beyaz-esyalarda-kacirilmayacak-firsatlar"]
+uludagsozluk.com##[href^="https://www.hepsiburada.com/kampanyalar/efsane-cuma-akilli-telefonlarda-ve-tabletlerde-30-a-varan-indirimler"]
+uludagsozluk.com##[href^="https://www.hepsiburada.com/kampanyalar/kisisel-bakim-urunlerinde-yilin-en-iyi-fiyatlari"]
+uludagsozluk.com##[href^="https://www.hepsiburada.com/kampanyalar/robot-supurgelerde-firsatlar"]
+uludagsozluk.com##[href^="https://www.hepsiburada.com/tablet-c-3008012"]
+uludagsozluk.com##[href^="https://www.hepsiburada.com/xiaomi/cep-telefonlari-c-371965"]
 ulusal.com.tr##.current_news.inf_append > div.text-center.my-2:nth-of-type(1) > .adsbygoogle
 ulusal.com.tr##div.text-center.my-2:nth-of-type(2) > .adsbygoogle
 ulusal.com.tr##div.text-center.my-2:nth-of-type(4) > .adsbygoogle
@@ -2671,7 +2841,21 @@ www.720pizleme.com##.footer-sticky
 www.comss.ru##div > .adsbygoogle
 www.doeda.com###video > center
 www.filmkovani.com###lznjhydxqkbr
+www.hostinger.web.tr##.popup-modal
+www.izmirlitv.com##.better-amp-wrapper
+www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan"]
+www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan/baliketli-izmir-buca-escort-bayan-esra/"]
+www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan/citir-izmir-escort-pelin/"]
+www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan/izmir-cekici-escort-leyla/"]
+www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan/izmir-escort-inci/"]
+www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan/izmir-escort-yaren/"]
+www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan/izmir-karsiyaka-begum/"]
+www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan/izmir-karsiyaka-ece/"]
+www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan/izmir-karsiyaka-masoz-ezgi/"]
+www.izmirlitv.com##[href="http://www.vitrinlerim.xyz/ilan/izmir-karsiyaka-masoz-ozlem/"]
 www.oyunkuzusu.com###video-oyun
+www.silentall.com##center > center > [href^="https://turb.to/turbo"]
+www.silentall.com##center:nth-of-type(2) > [href^="https://turb.to/turbo"]
 www.ucosi.com##.single-header
 www.webtekno.com##.hide-mobile > .adsbygoogle
 xxccdshj.com##*
@@ -3177,6 +3361,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||dnslytics.com/images/ads/*.gif^$image
 ||doeda*.*/wp-content/uploads/*/*/after.gif^$image
 ||doeda.com/wp-content/*/*/*image*/*loading*.gif$image
+||douploads.net/images/StartDownload.gif$image
 ||dsstrk.com^$document
 ||duerkopellyana85.files.wordpress.com/*.pdf$document
 ||duerkopellyana85.files.wordpress.com/^$popup
@@ -3216,6 +3401,9 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||funzcdn.com/horf*^$popup
 ||funzcdn.com/pop*^$popup
 ||go2linkfast.com*^$popup
+||gomovies-online.com/addons/123fddf3452dfsfgvd.gif$image
+||gomovies-online.com/addons/324cdxver34.gif$image
+||gomovies-online.com/addons/img/gfddsefr435.gif$image
 ||gplinks.in/advertising/campaign.php^$document
 ||guvenlifilmizle.com*^$popup
 ||hddiziport.com*^$popup
@@ -3670,6 +3858,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||www.ucbetting.com*^$popup
 ||www.ultrabet113.com*^$popup
 ||www.ultrabet120.com*^$popup
+||www.vitrinlerim.xyz/vitrinApp/resimler/*.jpg$image
 ||www.xn--yapkredi-vkb.com*^$popup
 ||www.yapıkredi.com*^$popup
 ||x5w5.veriprtroutg.com*^$popup
