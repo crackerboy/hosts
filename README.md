@@ -95,6 +95,10 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 
 - Ana menüye dönün, güncellemeleri denetleyip uygulayın. Cihazınızı yeniden başlatın.
 
+### Eklenti destekleyen tarayıcılar // ücretsiz, şarj dostu, cihaz kök-erişimli değilse
+
+Kiwi Browser veya Mozilla Firefox gibi eklenti desteği olan bir tarayıcıda, eklentiler bölümünden ublock origin kurarak aynı işlemleri uygulayabilirsiniz.
+
 ## Eklememeniz gereken listeler (Yutulanlar)
 
 Bu liste sağlayıcıyı kullanarak altta belirtilen listeleri de otomatik olarak kullanmış olursunuz. Endişe etmeyin, onlar da sürekli en güncel halinde olacaklar. Anlayacağınız bunları eklemenize gerek yok.
