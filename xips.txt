@@ -1,15 +1,15 @@
-! Title: nurcan Türk ip-list
+! Title: xorcan Türk ip-list
 ! Format: IP List
-! Expires: 1 days
+! Expires: 9 days
 ! Homepage: https://github.com/xorcan/hosts
-! Released: 17.03.2020
+! Released: 19.12.2020
 ! Entries: 15
 ! Details: https://github.com/xorcan/hosts
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xips.txt
 ! License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
 
-! Copyright 2019 xorcan
+! Copyright 2020 xorcan
 ! Reklam bildirimi / iletişim: xorcan@protonmail.com
 ! Report an ad / contact: xorcan@protonmail.com
 
