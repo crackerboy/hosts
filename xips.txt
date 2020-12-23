@@ -1,4 +1,4 @@
-! Title: xorcan Türk ip-list
+! Title: xorcan bad iplist
 ! Format: IP List
 ! Expires: 9 days
 ! Homepage: https://github.com/xorcan/hosts
@@ -10,8 +10,6 @@
 ! License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
 
 ! Copyright 2020 xorcan
-! Reklam bildirimi / iletişim: xorcan@protonmail.com
-! Report an ad / contact: xorcan@protonmail.com
 
 ! xorcan/hosts başla
 109.73.75.29
