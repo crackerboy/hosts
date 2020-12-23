@@ -1,4 +1,4 @@
-! Title: xorcan Türk ad-list
+! Title: xorcan turkish adlist
 ! Format: Hosts
 ! Expires: 9 days
 ! Homepage: https://github.com/xorcan/hosts
@@ -10,8 +10,6 @@
 ! License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
 
 ! Copyright 2020 xorcan
-! Reklam bildirimi / iletişim: xorcan@protonmail.com
-! Report an ad / contact: xorcan@protonmail.com
 
 127.0.0.1  localhost
 ::1  localhost
