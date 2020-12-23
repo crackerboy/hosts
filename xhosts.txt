@@ -1,4 +1,4 @@
-! Title: xorcan turkish adlist
+! Title: xorcan turkish host adlist
 ! Format: Hosts
 ! Expires: 9 days
 ! Homepage: https://github.com/xorcan/hosts
