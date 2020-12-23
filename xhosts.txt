@@ -3,7 +3,7 @@
 ! Expires: 9 days
 ! Homepage: https://github.com/xorcan/hosts
 ! Released: 23.12.2020
-! Entries: 8564
+! Entries: 8592
 ! Details: https://github.com/xorcan/hosts
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -423,6 +423,7 @@
 127.0.0.1 adtech.de
 127.0.0.1 adtiming.com
 127.0.0.1 adtrack.king.com
+127.0.0.1 adtring.net
 127.0.0.1 adult.narutogaming.com
 127.0.0.1 adultgames.fun
 127.0.0.1 adultvideo.mobi
@@ -471,6 +472,7 @@
 127.0.0.1 affiliates.babylon.com
 127.0.0.1 affiliates.scorbet12.com
 127.0.0.1 affiliateserver.hangikredi.com
+127.0.0.1 affmaksibet.com
 127.0.0.1 affsnetwork.com
 127.0.0.1 afftraf.co
 127.0.0.1 afge.info
@@ -720,6 +722,7 @@
 127.0.0.1 atasehirmutluson.xyz
 127.0.0.1 atasehirtransport.com
 127.0.0.1 atayuzme.com.tr
+127.0.0.1 atbodrum.com
 127.0.0.1 atemda.com
 127.0.0.1 atimuzik.com.tr
 127.0.0.1 atlasins.com.tr
@@ -905,6 +908,7 @@
 127.0.0.1 beykozevdenevenakliyatci.com
 127.0.0.1 beylikduzucafe.com
 127.0.0.1 beylikduzucix.com
+127.0.0.1 beylikduzuelitescort.com
 127.0.0.1 beylikduzuhidrofor.com
 127.0.0.1 beylikduzumasajmutluson.com
 127.0.0.1 beylikduzusu.com
@@ -1695,6 +1699,7 @@
 127.0.0.1 fwall.doruk.net.tr
 127.0.0.1 fxoro12.com
 127.0.0.1 fyrcdlb.bursavit.org
+127.0.0.1 g--g--z--z--z--n--n-gzzzn-com.cdn.ampproject.org
 127.0.0.1 g2afse.com
 127.0.0.1 g2cteknoloji.com
 127.0.0.1 gadgmyi.cf
@@ -1830,6 +1835,7 @@
 127.0.0.1 gzxrykv.gq
 127.0.0.1 gzxrykv.ml
 127.0.0.1 gzxrykv.tk
+127.0.0.1 gzzzn.com
 127.0.0.1 h.online-metrix.net
 127.0.0.1 haber-ankara.net
 127.0.0.1 haber.dev
@@ -2072,6 +2078,7 @@
 127.0.0.1 istanbulkoz.com
 127.0.0.1 istanbulrestaurantbirmingham.com
 127.0.0.1 istanbulsoft.com.tr
+127.0.0.1 istanbulsr.com
 127.0.0.1 istanbulstayandservices.com
 127.0.0.1 istanbulsuaritma.net
 127.0.0.1 istanbulteknikhirdavat.com
@@ -3060,6 +3067,7 @@
 127.0.0.1 poqujimev.ml
 127.0.0.1 poqujimev.tk
 127.0.0.1 pornohab.xyz
+127.0.0.1 pornosovet.net
 127.0.0.1 portalciyiz.biz
 127.0.0.1 portbet.net
 127.0.0.1 postaffiliatepro.com
@@ -3068,6 +3076,7 @@
 127.0.0.1 ppcnt.net
 127.0.0.1 pradma.com
 127.0.0.1 pre.footprintpredict.com
+127.0.0.1 pre.mobby.co
 127.0.0.1 prebid.adnxs.com
 127.0.0.1 prebid.districtm.ca
 127.0.0.1 predictiondexchange.com
@@ -3237,6 +3246,7 @@
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 reports.crashlytics.com
 127.0.0.1 req.startappservice.com
+127.0.0.1 reqcdn.com
 127.0.0.1 rereegny.net
 127.0.0.1 res1.applovin.com
 127.0.0.1 resim006.tk
@@ -3282,6 +3292,7 @@
 127.0.0.1 rolandolan.com
 127.0.0.1 roletaryk.info
 127.0.0.1 roltek.com.tr
+127.0.0.1 romashk9arfk10.com
 127.0.0.1 roseajans.club
 127.0.0.1 rotabet62.com
 127.0.0.1 rotabetaffiliates.com
@@ -3414,6 +3425,7 @@
 127.0.0.1 securessl-smart.com
 127.0.0.1 sedsasu.com
 127.0.0.1 segmentify.com
+127.0.0.1 seksturkey.com
 127.0.0.1 sekzpkn.cf
 127.0.0.1 sekzpkn.ga
 127.0.0.1 sekzpkn.gq
@@ -3441,6 +3453,7 @@
 127.0.0.1 settings.crashlytics.col
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 sevgilimistanbul.com
+127.0.0.1 sexhattigold1.xyz
 127.0.0.1 seyahatdanismani.net
 127.0.0.1 seyekanakliyat.com
 127.0.0.1 sgsyeku.cf
@@ -4022,6 +4035,7 @@
 127.0.0.1 whatsap.club
 127.0.0.1 whatsapp-chat.xyz
 127.0.0.1 whatsappaff.club
+127.0.0.1 whatsappdansohbet.website
 127.0.0.1 whatsappsohbet.site
 127.0.0.1 whatsappsohbet.top
 127.0.0.1 whatsappsohbetet.com
@@ -4431,6 +4445,7 @@
 127.0.0.1 www.adtech.de
 127.0.0.1 www.adtiming.com
 127.0.0.1 www.adtrack.king.com
+127.0.0.1 www.adtring.net
 127.0.0.1 www.adult.narutogaming.com
 127.0.0.1 www.adultgames.fun
 127.0.0.1 www.adultvideo.mobi
@@ -4474,6 +4489,7 @@
 127.0.0.1 www.affiliates.babylon.com
 127.0.0.1 www.affiliates.scorbet12.com
 127.0.0.1 www.affiliateserver.hangikredi.com
+127.0.0.1 www.affmaksibet.com
 127.0.0.1 www.affsnetwork.com
 127.0.0.1 www.afftraf.co
 127.0.0.1 www.afge.info
@@ -4710,6 +4726,7 @@
 127.0.0.1 www.atasehirmutluson.xyz
 127.0.0.1 www.atasehirtransport.com
 127.0.0.1 www.atayuzme.com.tr
+127.0.0.1 www.atbodrum.com
 127.0.0.1 www.atemda.com
 127.0.0.1 www.atimuzik.com.tr
 127.0.0.1 www.atlasins.com.tr
@@ -4894,6 +4911,7 @@
 127.0.0.1 www.beykozevdenevenakliyatci.com
 127.0.0.1 www.beylikduzucafe.com
 127.0.0.1 www.beylikduzucix.com
+127.0.0.1 www.beylikduzuelitescort.com
 127.0.0.1 www.beylikduzuhidrofor.com
 127.0.0.1 www.beylikduzumasajmutluson.com
 127.0.0.1 www.beylikduzusu.com
@@ -5663,6 +5681,7 @@
 127.0.0.1 www.fwall.doruk.net.tr
 127.0.0.1 www.fxoro12.com
 127.0.0.1 www.fyrcdlb.bursavit.org
+127.0.0.1 www.g--g--z--z--z--n--n-gzzzn-com.cdn.ampproject.org
 127.0.0.1 www.g2afse.com
 127.0.0.1 www.g2cteknoloji.com
 127.0.0.1 www.gadgmyi.cf
@@ -5793,6 +5812,7 @@
 127.0.0.1 www.gzxrykv.gq
 127.0.0.1 www.gzxrykv.ml
 127.0.0.1 www.gzxrykv.tk
+127.0.0.1 www.gzzzn.com
 127.0.0.1 www.h.online-metrix.net
 127.0.0.1 www.haber-ankara.net
 127.0.0.1 www.haber.dev
@@ -6014,6 +6034,7 @@
 127.0.0.1 www.istanbulkoz.com
 127.0.0.1 www.istanbulrestaurantbirmingham.com
 127.0.0.1 www.istanbulsoft.com.tr
+127.0.0.1 www.istanbulsr.com
 127.0.0.1 www.istanbulstayandservices.com
 127.0.0.1 www.istanbulsuaritma.net
 127.0.0.1 www.istanbulteknikhirdavat.com
@@ -6987,6 +7008,7 @@
 127.0.0.1 www.poqujimev.ml
 127.0.0.1 www.poqujimev.tk
 127.0.0.1 www.pornohab.xyz
+127.0.0.1 www.pornosovet.net
 127.0.0.1 www.portalciyiz.biz
 127.0.0.1 www.portbet.net
 127.0.0.1 www.postaffiliatepro.com
@@ -6995,6 +7017,7 @@
 127.0.0.1 www.ppcnt.net
 127.0.0.1 www.pradma.com
 127.0.0.1 www.pre.footprintpredict.com
+127.0.0.1 www.pre.mobby.co
 127.0.0.1 www.prebid.adnxs.com
 127.0.0.1 www.prebid.districtm.ca
 127.0.0.1 www.predictiondexchange.com
@@ -7159,6 +7182,7 @@
 127.0.0.1 www.relicotano.com
 127.0.0.1 www.remas-tr.com
 127.0.0.1 www.report.appmetrica.yandex.net
+127.0.0.1 www.reqcdn.com
 127.0.0.1 www.rereegny.net
 127.0.0.1 www.res1.applovin.com
 127.0.0.1 www.resim006.tk
@@ -7204,6 +7228,7 @@
 127.0.0.1 www.rolandolan.com
 127.0.0.1 www.roletaryk.info
 127.0.0.1 www.roltek.com.tr
+127.0.0.1 www.romashk9arfk10.com
 127.0.0.1 www.roseajans.club
 127.0.0.1 www.rotabet62.com
 127.0.0.1 www.rotabetaffiliates.com
@@ -7331,6 +7356,7 @@
 127.0.0.1 www.securessl-smart.com
 127.0.0.1 www.sedsasu.com
 127.0.0.1 www.segmentify.com
+127.0.0.1 www.seksturkey.com
 127.0.0.1 www.sekzpkn.cf
 127.0.0.1 www.sekzpkn.ga
 127.0.0.1 www.sekzpkn.gq
@@ -7355,6 +7381,7 @@
 127.0.0.1 www.setting.rayjump.com
 127.0.0.1 www.settings.crashlytics.col
 127.0.0.1 www.sevgilimistanbul.com
+127.0.0.1 www.sexhattigold1.xyz
 127.0.0.1 www.seyahatdanismani.net
 127.0.0.1 www.seyekanakliyat.com
 127.0.0.1 www.sgsyeku.cf
@@ -7917,6 +7944,7 @@
 127.0.0.1 www.whatsap.club
 127.0.0.1 www.whatsapp-chat.xyz
 127.0.0.1 www.whatsappaff.club
+127.0.0.1 www.whatsappdansohbet.website
 127.0.0.1 www.whatsappsohbet.site
 127.0.0.1 www.whatsappsohbet.top
 127.0.0.1 www.whatsappsohbetet.com
