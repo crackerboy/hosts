@@ -2,8 +2,8 @@
 ! Format: Hosts
 ! Expires: 9 days
 ! Homepage: https://github.com/xorcan/hosts
-! Released: 19.12.2020
-! Entries: 8530
+! Released: 23.12.2020
+! Entries: 8538
 ! Details: https://github.com/xorcan/hosts
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -876,6 +876,7 @@
 127.0.0.1 bethepresharthe.info
 127.0.0.1 bethub.io
 127.0.0.1 betkanyon100.com
+127.0.0.1 betlesene.com
 127.0.0.1 betmatik553.com
 127.0.0.1 betokont.com.tr
 127.0.0.1 betonbetaffiliates.com
@@ -1666,6 +1667,7 @@
 127.0.0.1 forexhesapac5.co
 127.0.0.1 formens.pro
 127.0.0.1 fortumo.com
+127.0.0.1 forum.turkmmo.com
 127.0.0.1 fosclhrsdhhn.com
 127.0.0.1 fotos-paisajes.net
 127.0.0.1 foxpush.com
@@ -1750,6 +1752,7 @@
 127.0.0.1 giresunhaberi.com
 127.0.0.1 git.emarketing724.com
 127.0.0.1 giydirmeoyunlari.oyunmemo.com
+127.0.0.1 gizabetgirisyap.com
 127.0.0.1 gjikkwtrstaku.com
 127.0.0.1 gkmforex3.com
 127.0.0.1 gkmforex4.com
@@ -2204,6 +2207,7 @@
 127.0.0.1 kayserigenclik.com
 127.0.0.1 kayserihabertoolbar.media-toolbar.com
 127.0.0.1 kayserimodern.com
+127.0.0.1 kayserisempati.com
 127.0.0.1 kazannakliyat.com
 127.0.0.1 kelebek.gen.tr
 127.0.0.1 kentli.org
@@ -4848,6 +4852,7 @@
 127.0.0.1 www.bethepresharthe.info
 127.0.0.1 www.bethub.io
 127.0.0.1 www.betkanyon100.com
+127.0.0.1 www.betlesene.com
 127.0.0.1 www.betmatik553.com
 127.0.0.1 www.betokont.com.tr
 127.0.0.1 www.betonbetaffiliates.com
@@ -5617,6 +5622,7 @@
 127.0.0.1 www.forexhesapac5.co
 127.0.0.1 www.formens.pro
 127.0.0.1 www.fortumo.com
+127.0.0.1 www.forum.turkmmo.com
 127.0.0.1 www.fosclhrsdhhn.com
 127.0.0.1 www.fotos-paisajes.net
 127.0.0.1 www.foxpush.com
@@ -5700,6 +5706,7 @@
 127.0.0.1 www.giresunhaberi.com
 127.0.0.1 www.git.emarketing724.com
 127.0.0.1 www.giydirmeoyunlari.oyunmemo.com
+127.0.0.1 www.gizabetgirisyap.com
 127.0.0.1 www.gjikkwtrstaku.com
 127.0.0.1 www.gkmforex3.com
 127.0.0.1 www.gkmforex4.com
@@ -6128,6 +6135,7 @@
 127.0.0.1 www.kayserigenclik.com
 127.0.0.1 www.kayserihabertoolbar.media-toolbar.com
 127.0.0.1 www.kayserimodern.com
+127.0.0.1 www.kayserisempati.com
 127.0.0.1 www.kazannakliyat.com
 127.0.0.1 www.kelebek.gen.tr
 127.0.0.1 www.kentli.org
