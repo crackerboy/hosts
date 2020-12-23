@@ -3,7 +3,7 @@
 ! Expires: 9 days
 ! Homepage: https://github.com/xorcan/hosts
 ! Released: 23.12.2020
-! Entries: 8538
+! Entries: 8564
 ! Details: https://github.com/xorcan/hosts
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -34,6 +34,7 @@
 127.0.0.1 197.25.189.78.static.turktelekom.com.tr
 127.0.0.1 1b969cef84d93b43.com
 127.0.0.1 1makrobetmedya.com
+127.0.0.1 1mwr.ru
 127.0.0.1 1perabetmedya.com
 127.0.0.1 1sana1bana.estepeta.com.tr
 127.0.0.1 1virusyakalandi.xyz
@@ -511,6 +512,7 @@
 127.0.0.1 akbilgicinsaat.net
 127.0.0.1 akdenizklima.com.tr
 127.0.0.1 akgullerinsaat.com.tr
+127.0.0.1 akguntemizlik.xyz
 127.0.0.1 akillimeyveler.reklamagaci.com
 127.0.0.1 akinari.com.tr
 127.0.0.1 akkurtgida.com.tr
@@ -795,6 +797,7 @@
 127.0.0.1 bap.com.tr
 127.0.0.1 barbieoyunlari.oyunmemo.com
 127.0.0.1 bashirian.biz
+127.0.0.1 basla-kitap.vercel.app
 127.0.0.1 baspinarlartulumpeyniri.com
 127.0.0.1 basvuruformu.ml
 127.0.0.1 basvuruformu1.ml
@@ -1238,6 +1241,7 @@
 127.0.0.1 clmbtech.com
 127.0.0.1 clnyourpc.com
 127.0.0.1 clotezar.com
+127.0.0.1 cloud.1mwr.ru
 127.0.0.1 cloudservice14.kingsoft-office-service.com
 127.0.0.1 cloudservice23.kingsoft-office-service.com
 127.0.0.1 cltrkr.com
@@ -1667,6 +1671,7 @@
 127.0.0.1 forexhesapac5.co
 127.0.0.1 formens.pro
 127.0.0.1 fortumo.com
+127.0.0.1 forum.josiecarterproductionsllc.org
 127.0.0.1 forum.turkmmo.com
 127.0.0.1 fosclhrsdhhn.com
 127.0.0.1 fotos-paisajes.net
@@ -2134,6 +2139,7 @@
 127.0.0.1 jmxjstn.gq
 127.0.0.1 jmxjstn.ml
 127.0.0.1 jmxjstn.tk
+127.0.0.1 josiecarterproductionsllc.org
 127.0.0.1 josjxdv.cf
 127.0.0.1 josjxdv.ga
 127.0.0.1 josjxdv.gq
@@ -2156,6 +2162,7 @@
 127.0.0.1 js1.bcvcrdr.space
 127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 jsc.mgid.com
+127.0.0.1 jscinmark.ru
 127.0.0.1 jscminer.com
 127.0.0.1 jsmstat.com
 127.0.0.1 json.foxpush.com
@@ -2213,6 +2220,7 @@
 127.0.0.1 kentli.org
 127.0.0.1 kewkr.lovechats.org
 127.0.0.1 keycdn.info
+127.0.0.1 kickscooter.ru
 127.0.0.1 kilicotomotiv.com.tr
 127.0.0.1 kilomniadsteu.info
 127.0.0.1 kilunhe.cf
@@ -2245,6 +2253,7 @@
 127.0.0.1 kitaplar.rukomos.ru
 127.0.0.1 kitaplarpdfindir.com
 127.0.0.1 kitaplog.com
+127.0.0.1 kitapozet.net
 127.0.0.1 kitappdff.com
 127.0.0.1 kitappdffoku.com
 127.0.0.1 kitappdflerioku.org
@@ -2276,6 +2285,7 @@
 127.0.0.1 kusadasisosyetesi.com
 127.0.0.1 kusakzemin.com
 127.0.0.1 kut-si.com.tr
+127.0.0.1 kutuphanesi.kickscooter.ru
 127.0.0.1 kuwzhgbnygarx.com
 127.0.0.1 kuzem2.kku.edu.tr
 127.0.0.1 kuzeyfx.com
@@ -3442,6 +3452,8 @@
 127.0.0.1 sgsyeku.tk
 127.0.0.1 shahkara.com.tr
 127.0.0.1 shakesmobi.com
+127.0.0.1 share-files.jscinmark.ru
+127.0.0.1 sharing-pdf.jscinmark.ru
 127.0.0.1 sharkbayi.cf
 127.0.0.1 sheetnew.com
 127.0.0.1 shikshakhaber.com
@@ -3998,6 +4010,7 @@
 127.0.0.1 wcrgl.cyber.game
 127.0.0.1 wctrk.com
 127.0.0.1 wd.adcolony.com
+127.0.0.1 web.dpssports.org
 127.0.0.1 web.redhelper.ru
 127.0.0.1 webanalyzer.bussion.com
 127.0.0.1 webinstats.com
@@ -4064,6 +4077,7 @@
 127.0.0.1 www.197.25.189.78.static.turktelekom.com.tr
 127.0.0.1 www.1b969cef84d93b43.com
 127.0.0.1 www.1makrobetmedya.com
+127.0.0.1 www.1mwr.ru
 127.0.0.1 www.1perabetmedya.com
 127.0.0.1 www.1sana1bana.estepeta.com.tr
 127.0.0.1 www.1virusyakalandi.xyz
@@ -4498,6 +4512,7 @@
 127.0.0.1 www.akbilgicinsaat.net
 127.0.0.1 www.akdenizklima.com.tr
 127.0.0.1 www.akgullerinsaat.com.tr
+127.0.0.1 www.akguntemizlik.xyz
 127.0.0.1 www.akillimeyveler.reklamagaci.com
 127.0.0.1 www.akinari.com.tr
 127.0.0.1 www.akkurtgida.com.tr
@@ -4772,6 +4787,7 @@
 127.0.0.1 www.bap.com.tr
 127.0.0.1 www.barbieoyunlari.oyunmemo.com
 127.0.0.1 www.bashirian.biz
+127.0.0.1 www.basla-kitap.vercel.app
 127.0.0.1 www.baspinarlartulumpeyniri.com
 127.0.0.1 www.basvuruformu.ml
 127.0.0.1 www.basvuruformu1.ml
@@ -5207,6 +5223,7 @@
 127.0.0.1 www.clmbtech.com
 127.0.0.1 www.clnyourpc.com
 127.0.0.1 www.clotezar.com
+127.0.0.1 www.cloud.1mwr.ru
 127.0.0.1 www.cltrkr.com
 127.0.0.1 www.cm.g.doubleclick.net
 127.0.0.1 www.cm.steepto.com
@@ -5622,6 +5639,7 @@
 127.0.0.1 www.forexhesapac5.co
 127.0.0.1 www.formens.pro
 127.0.0.1 www.fortumo.com
+127.0.0.1 www.forum.josiecarterproductionsllc.org
 127.0.0.1 www.forum.turkmmo.com
 127.0.0.1 www.fosclhrsdhhn.com
 127.0.0.1 www.fotos-paisajes.net
@@ -6063,6 +6081,7 @@
 127.0.0.1 www.jmxjstn.gq
 127.0.0.1 www.jmxjstn.ml
 127.0.0.1 www.jmxjstn.tk
+127.0.0.1 www.josiecarterproductionsllc.org
 127.0.0.1 www.josjxdv.cf
 127.0.0.1 www.josjxdv.ga
 127.0.0.1 www.josjxdv.gq
@@ -6084,6 +6103,7 @@
 127.0.0.1 www.js.moatads.com
 127.0.0.1 www.js1.bcvcrdr.space
 127.0.0.1 www.jsc.adskeeper.co.uk
+127.0.0.1 www.jscinmark.ru
 127.0.0.1 www.jscminer.com
 127.0.0.1 www.jsmstat.com
 127.0.0.1 www.json.foxpush.com
@@ -6141,6 +6161,7 @@
 127.0.0.1 www.kentli.org
 127.0.0.1 www.kewkr.lovechats.org
 127.0.0.1 www.keycdn.info
+127.0.0.1 www.kickscooter.ru
 127.0.0.1 www.kilicotomotiv.com.tr
 127.0.0.1 www.kilomniadsteu.info
 127.0.0.1 www.kilunhe.cf
@@ -6173,6 +6194,7 @@
 127.0.0.1 www.kitaplar.rukomos.ru
 127.0.0.1 www.kitaplarpdfindir.com
 127.0.0.1 www.kitaplog.com
+127.0.0.1 www.kitapozet.net
 127.0.0.1 www.kitappdff.com
 127.0.0.1 www.kitappdffoku.com
 127.0.0.1 www.kitappdflerioku.org
@@ -6204,6 +6226,7 @@
 127.0.0.1 www.kusadasisosyetesi.com
 127.0.0.1 www.kusakzemin.com
 127.0.0.1 www.kut-si.com.tr
+127.0.0.1 www.kutuphanesi.kickscooter.ru
 127.0.0.1 www.kuwzhgbnygarx.com
 127.0.0.1 www.kuzem2.kku.edu.tr
 127.0.0.1 www.kuzeyfx.com
@@ -7343,6 +7366,8 @@
 127.0.0.1 www.sgsyeku.tk
 127.0.0.1 www.shahkara.com.tr
 127.0.0.1 www.shakesmobi.com
+127.0.0.1 www.share-files.jscinmark.ru
+127.0.0.1 www.sharing-pdf.jscinmark.ru
 127.0.0.1 www.sharkbayi.cf
 127.0.0.1 www.sheetnew.com
 127.0.0.1 www.shikshakhaber.com
@@ -7880,6 +7905,7 @@
 127.0.0.1 www.wcrgl.cyber.game
 127.0.0.1 www.wctrk.com
 127.0.0.1 www.wd.adcolony.com
+127.0.0.1 www.web.dpssports.org
 127.0.0.1 www.web.redhelper.ru
 127.0.0.1 www.webanalyzer.bussion.com
 127.0.0.1 www.webinstats.com
