@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://www.google.com/search?&q=t%C3%BCrk+adlist+xorcan" alt="Rahatsız Siteler Türk Adlist"><img src="https://raw.githubusercontent.com/xorcan/hosts/master/xorcan.hosts.logo.jpg" width="250"></a></br>
+<h2 align="center"><a href="https://www.google.com/search?&q=t%C3%BCrk+adlist+xorcan" alt="Rahatsız Siteler Türk Adlist"><img src="../ivirzivir/xorcan.hosts.logo.jpg" width="250"></a></br>
 <b>Türk Ad-list, Reklam Engelleme Listesi, HOSTS</b></h2><h4 align="center">Bahis, dolandırıcılık gibi rahatsız edici siteleri engeller. <a href="https://github.com/xorcan/hosts/blob/master/README-EN.md">English</a></h4>
 
 <p align="center"><a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/github/license/xorcan/hosts.svg"></a> <a href="https://www.google.com/search?&q=t%C3%BCrk+adlist+xorcan" alt="Türkçe Ad-listler"><img src="https://img.shields.io/badge/t%C3%BCrk%C3%A7e-reklam%20listesi-f44b42.svg"></a>  <a href="https://github.com/xorcan/hosts/issues" alt="Hatalar"><img src="https://img.shields.io/github/issues/xorcan/hosts.svg"></a> 
@@ -22,14 +22,14 @@ https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
 https://raw.githubusercontent.com/xorcan/hosts/master/xips.txt
 ```
 
-![bunun gibi](./bilgi1.png)
+![bunun gibi](../ivirzivir/bilgi1.png)
 
 - Ardından sağ üstte beliren **"Değişiklikleri Kaydet"** düğmesine tıklayarak sayfadan çıkabilirsiniz. 
 - Artık ayarlar sayfasına girip **"Güncelle"** tuşuna basmanıza gerek yok. Liste diğer listelerin yaptığı gibi belli aralıklarla kendini güncelleyecektir. 
 
 ## Ayarlamalarınız Bittiğinde Şöyle Görünmelidir:
 
-![bunun gibi](./bilgi2.png)
+![bunun gibi](../ivirzivir/bilgi2.png)
 
 ## Windows için Önerilmeyen nedir?
 
