@@ -1,9 +1,9 @@
 ! Title: xorcan turkish host adlist
 ! Format: Hosts
-! Expires: 9 days
+! Expires: 1 days
 ! Homepage: https://github.com/xorcan/hosts
 ! Released: 24.12.2020
-! Entries: 8590
+! Entries: 8605
 ! Details: https://github.com/xorcan/hosts
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -731,6 +731,7 @@
 127.0.0.1 auction.unityads.unity3d.com
 127.0.0.1 autolinkmaker.itunes.apple.com
 127.0.0.1 avazunativeads.com
+127.0.0.1 avcilarescort.org
 127.0.0.1 avcilarescortking.com
 127.0.0.1 avcilarliman.com
 127.0.0.1 avrupajumbo.live
@@ -855,6 +856,7 @@
 127.0.0.1 bejbumr.gq
 127.0.0.1 bejbumr.ml
 127.0.0.1 bejbumr.tk
+127.0.0.1 bekleyiniz.com
 127.0.0.1 berkyilmaz.com.tr
 127.0.0.1 bervin.com.tr
 127.0.0.1 best.hot-blogs.info
@@ -909,9 +911,12 @@
 127.0.0.1 beylikduzucafe.com
 127.0.0.1 beylikduzucix.com
 127.0.0.1 beylikduzuelitescort.com
+127.0.0.1 beylikduzuescort.org
 127.0.0.1 beylikduzuhidrofor.com
 127.0.0.1 beylikduzumasajmutluson.com
 127.0.0.1 beylikduzusu.com
+127.0.0.1 beylikduzusualti.com
+127.0.0.1 beylikduzuvip.com
 127.0.0.1 beyraf.com.tr
 127.0.0.1 beyzbolturk.com
 127.0.0.1 bg.com.tr
@@ -1573,6 +1578,7 @@
 127.0.0.1 esg.com.tr
 127.0.0.1 eskisehiraydinnakliyat.com
 127.0.0.1 eskisehirforum.net
+127.0.0.1 eskortbeylikduzu.com
 127.0.0.1 eslitrezo.com
 127.0.0.1 essedaccur.info
 127.0.0.1 essem.com.tr
@@ -2628,6 +2634,7 @@
 127.0.0.1 mobileoffers-by-download.com
 127.0.0.1 mobileoffers-bz-download.com
 127.0.0.1 mobileplay.mobi
+127.0.0.1 mobilhdizle.com
 127.0.0.1 mobilityweekbg.com
 127.0.0.1 mobilpop.com
 127.0.0.1 mobilup.com
@@ -3882,6 +3889,7 @@
 127.0.0.1 uid.ksosoft.com
 127.0.0.1 ujysitutequpoza.ml
 127.0.0.1 ulife17yeter.com
+127.0.0.1 ulrh.mobilhdizle.com
 127.0.0.1 ultrabet113.com
 127.0.0.1 ultrabet120.com
 127.0.0.1 ulushaber.com
@@ -4734,6 +4742,7 @@
 127.0.0.1 www.auction.unityads.unity3d.com
 127.0.0.1 www.autolinkmaker.itunes.apple.com
 127.0.0.1 www.avazunativeads.com
+127.0.0.1 www.avcilarescort.org
 127.0.0.1 www.avcilarescortking.com
 127.0.0.1 www.avcilarliman.com
 127.0.0.1 www.avrupajumbo.live
@@ -4857,6 +4866,7 @@
 127.0.0.1 www.bejbumr.gq
 127.0.0.1 www.bejbumr.ml
 127.0.0.1 www.bejbumr.tk
+127.0.0.1 www.bekleyiniz.com
 127.0.0.1 www.berkyilmaz.com.tr
 127.0.0.1 www.bervin.com.tr
 127.0.0.1 www.best.hot-blogs.info
@@ -4911,9 +4921,12 @@
 127.0.0.1 www.beylikduzucafe.com
 127.0.0.1 www.beylikduzucix.com
 127.0.0.1 www.beylikduzuelitescort.com
+127.0.0.1 www.beylikduzuescort.org
 127.0.0.1 www.beylikduzuhidrofor.com
 127.0.0.1 www.beylikduzumasajmutluson.com
 127.0.0.1 www.beylikduzusu.com
+127.0.0.1 www.beylikduzusualti.com
+127.0.0.1 www.beylikduzuvip.com
 127.0.0.1 www.beyraf.com.tr
 127.0.0.1 www.beyzbolturk.com
 127.0.0.1 www.bg.com.tr
@@ -5558,6 +5571,7 @@
 127.0.0.1 www.esg.com.tr
 127.0.0.1 www.eskisehiraydinnakliyat.com
 127.0.0.1 www.eskisehirforum.net
+127.0.0.1 www.eskortbeylikduzu.com
 127.0.0.1 www.eslitrezo.com
 127.0.0.1 www.essedaccur.info
 127.0.0.1 www.essem.com.tr
@@ -6573,6 +6587,7 @@
 127.0.0.1 www.mobileoffers-by-download.com
 127.0.0.1 www.mobileoffers-bz-download.com
 127.0.0.1 www.mobileplay.mobi
+127.0.0.1 www.mobilhdizle.com
 127.0.0.1 www.mobilityweekbg.com
 127.0.0.1 www.mobilpop.com
 127.0.0.1 www.mobilup.com
