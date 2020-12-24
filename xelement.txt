@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/xorcan/hosts
 ! Released: 24.12.2020
-! Entries: 5031
+! Entries: 5071
 ! Details: https://github.com/xorcan/hosts
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -241,6 +241,10 @@
 ##[href="http://onsekizurunleri.online/"]
 ##[href="http://partneralimi.xyz"]
 ##[href="http://partneralimi.xyz/"]
+##[href="http://red.blok.link"]
+##[href="http://red.blok.link/"]
+##[href="http://red.blok.link/xx6"]
+##[href="http://red.blok.link/xx6/"]
 ##[href="http://share-files.jscinmark.ru"]
 ##[href="http://share-files.jscinmark.ru/"]
 ##[href="http://share-files.jscinmark.ru/zh-CN"]
@@ -434,6 +438,10 @@
 ##[href="https://partneralimi.xyz"]
 ##[href="https://partneralimi.xyz/"]
 ##[href="https://rebrand.ly/9be06"]
+##[href="https://red.blok.link"]
+##[href="https://red.blok.link/"]
+##[href="https://red.blok.link/xx6"]
+##[href="https://red.blok.link/xx6/"]
 ##[href="https://share-files.jscinmark.r"]
 ##[href="https://share-files.jscinmark.ru"]
 ##[href="https://share-files.jscinmark.ru/"]
@@ -562,6 +570,10 @@
 ##[href="onsekizurunleri.online/"]
 ##[href="partneralimi.xyz"]
 ##[href="partneralimi.xyz/"]
+##[href="red.blok.link"]
+##[href="red.blok.link/"]
+##[href="red.blok.link/xx6"]
+##[href="red.blok.link/xx6/"]
 ##[href="share-files.jscinmark.r"]
 ##[href="share-files.jscinmark.ru"]
 ##[href="share-files.jscinmark.ru/zh-C"]
@@ -2306,12 +2318,14 @@
 ##[href^="tel:+0023780009"]
 ##[href^="tel:+002378000903"]
 ##[href^="tel:+002378000989"]
+##[href^="tel:+00237811101"]
 ##[href^="tel:+00237811102"]
 ##[href^="tel:+00237811103"]
 ##[href^="tel:+00237811104"]
 ##[href^="tel:+00237811105"]
 ##[href^="tel:+00237811106"]
 ##[href^="tel:+00237811107"]
+##[href^="tel:+00237811108"]
 ##[href^="tel:+00237811109"]
 ##[href^="tel:+0023781111"]
 ##[href^="tel:+00237811119"]
@@ -2448,12 +2462,14 @@
 ##[href^="tel://+0023780009"]
 ##[href^="tel://+002378000903"]
 ##[href^="tel://+002378000989"]
+##[href^="tel://+00237811101"]
 ##[href^="tel://+00237811102"]
 ##[href^="tel://+00237811103"]
 ##[href^="tel://+00237811104"]
 ##[href^="tel://+00237811105"]
 ##[href^="tel://+00237811106"]
 ##[href^="tel://+00237811107"]
+##[href^="tel://+00237811108"]
 ##[href^="tel://+00237811109"]
 ##[href^="tel://+0023781111"]
 ##[href^="tel://+00237811119"]
@@ -2590,12 +2606,14 @@
 ##[href^="tel://0023780009"]
 ##[href^="tel://002378000903"]
 ##[href^="tel://002378000989"]
+##[href^="tel://00237811101"]
 ##[href^="tel://00237811102"]
 ##[href^="tel://00237811103"]
 ##[href^="tel://00237811104"]
 ##[href^="tel://00237811105"]
 ##[href^="tel://00237811106"]
 ##[href^="tel://00237811107"]
+##[href^="tel://00237811108"]
 ##[href^="tel://00237811109"]
 ##[href^="tel://0023781111"]
 ##[href^="tel://00237811119"]
@@ -2732,12 +2750,14 @@
 ##[href^="tel:0023780009"]
 ##[href^="tel:002378000903"]
 ##[href^="tel:002378000989"]
+##[href^="tel:00237811101"]
 ##[href^="tel:00237811102"]
 ##[href^="tel:00237811103"]
 ##[href^="tel:00237811104"]
 ##[href^="tel:00237811105"]
 ##[href^="tel:00237811106"]
 ##[href^="tel:00237811107"]
+##[href^="tel:00237811108"]
 ##[href^="tel:00237811109"]
 ##[href^="tel:0023781111"]
 ##[href^="tel:00237811119"]
@@ -3365,6 +3385,7 @@ ademocut.com##.yazi-icerik > div:nth-of-type(2)
 ahaber.com.tr,aspor.com.tr,otohaber.com.tr##.pageTools
 alfabetik.info##.ivr
 alfabetik.info##.ivr > p
+alfabetik.info##.menu-ust-container
 alfabetik.info##body > div:nth-of-type(3)
 alfabetik.info##body > div:nth-of-type(4)
 alfabetik.info##body > div:nth-of-type(5)
@@ -3376,6 +3397,9 @@ archive.is##.body > div:nth-of-type(2)
 atvavrupa.tv,sabah.com.tr,transfermarkt.com.tr##.header-social
 autoline.com.tr,cnnturk.com,fotomac.com.tr,hurriyet.com.tr,lacivertdergi.com,landrover.com.tr,takvim.com.tr,vavradyo.com.tr##.share
 axscbbajb.eviewporn.com##.ara-banner
+badtv.net###video > center > p
+badtv.net##center
+badtv.net##center > p
 bcvc.live###b3c6a2115164fa0f27541ef6a07a65e01474808f9 > .adflex-b-reset
 bcvc.live###b722a4372547dab3dff55c8d9c5b13649a7f61ba3 > .adflex-b-reset
 bcvc.live###bvcontainerx
@@ -3468,7 +3492,9 @@ canli.goodno.org###HTML2 > .widget-content > [href]
 canli.goodno.org##.mh-container-outer.mh-container > [href]
 canli.goodno.org##[href="https://bit.ly/b10jtvpg"]
 canli.goodno.org##[src="//old.eniyioyuncu.com/oldstreaming/liste.html"]
+canlitv.news/img/plarka.jpg$image
 cdn.ampproject.org###iAlert
+cdn.ampproject.org###ivr-bar
 cdn.ampproject.org##.Fclick
 cdn.ampproject.org##.reklamorta
 cdn.ampproject.org##div.top5.z-indx.col-xs-12:nth-of-type(1) > .ara-banner
@@ -3741,6 +3767,8 @@ parrotlinux.org##.preloader
 parrotsec.org##.preloader
 pcgamer.site/*/*/images/background_video.mp4$media
 pdfkitapp.com##.swal2-in.swal2-fade.swal2-container
+player.videoizle.link/*logo.png$image
+playtop.xyz/play*.png$image
 poke-maheir-com.cdn.ampproject.org###uyari
 poke-maheir-com.cdn.ampproject.org##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.e_1907701193
 poke-maheir-com.cdn.ampproject.org##.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.e_61672974
@@ -4051,11 +4079,13 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*atvcdn.com*^$popup
 ||*atvcdn.com/pp/*^$popup
 ||*aynitap.com*^$popup
+||*badtv*/wp-content/uploads/*/*/porno.gif
 ||*bahsegel*.gif$image
 ||*bahsegel*.jpeg$image
 ||*bahsegel*.jpg$image
 ||*bahsegel*.png$image
 ||*bahsegel189.com*^$popup
+||*balbal*.cdn.ampproject.org/i/*/pm*.gif
 ||*basvformu*.onl*/*form*.php$subdocument
 ||*basvformu*.web*/*form*.php$subdocument
 ||*baysansliortaklik*.com/click.php$document
@@ -4093,6 +4123,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*canliradyodinle-vip.cdn.ampproject.org*^$popup
 ||*canliradyodinle-vip.cdn.ampproject.org/c/s/canliradyodinle.vip*^$popup
 ||*cdn.adreda.com/brda_trlk.js
+||*cdn.ampproject.org/i/*/ivrk.jpg
 ||*cdn.ampproject.org/i/s/*video_onu/obilet/dd.png
 ||*cdn.blok.link/code/*milf*.gif
 ||*cdn.blok.link/code/*milf*.jpeg
@@ -4116,6 +4147,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*dizipub.net/*la-casa*^$popup
 ||*dizist1*^$popup
 ||*doeda*/*porno*.gif$image
+||*doeda*/wp-content/uploads/*/*/after.gif
 ||*doeda.com/wp-content/*/*valt*.gif$image
 ||*doeda.com/wp-content/*/*video*.gif$image
 ||*download-free.site*.*^
@@ -4271,6 +4303,9 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||*wlthebetend.adsrv.eacdn.com*^$popup
 ||*wlthebetend.adsrv.eacdn.com/C.ashx$document
 ||*wlthebetend.adsrv.eacdn.com/C.ashx*^$popup
+||*wp-content/themes/*/images/loading-bert.gif$image
+||*wp-content/uploads/*/*/partner*.gif$image
+||*wp-content/uploads/*/*/porno-izle.gif
 ||*www.atvcdn.com*^$popup
 ||*www.atvcdn.com/pp*^$popup
 ||*www.canikom.site*^$popup
@@ -4341,6 +4376,7 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||betbaba43.com*^$popup
 ||betlesene.com*^$popup
 ||betvole362.com*^$popup
+||beylikduzuelitescort.com*^$popup
 ||beylikduzuelitescort.com^$all
 ||beylikduzuescort.org*^$all
 ||beylikduzuescort.org*^$popup
@@ -4375,8 +4411,10 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||canlialem.com*^$popup
 ||canlitv.news/img/plarka.jpg$image
 ||cdn*.turkakisi.com/content/stream/*bet/*Meltur*/Meltur*.mp4$media
+||cdn.*/wp-content/themes/*/images/loading-bert.gif
 ||cdn.advg.agency/static/offer/*/banners/*/*.jpeg$image
 ||cdn.advg.agency/static/offer/*/banners/*/*.jpg$image
+||cdn.ahbul.com/wp-content/themes/ahbul/images/loading-bert.gif$image
 ||cdn.r10.net/pep/pephr.gif
 ||cdn.taboola.com*^$popup
 ||cdn.tr.link/img/300X251.png
@@ -4424,6 +4462,8 @@ yourbittorrent2.com##div.text-center.col-md-4:nth-of-type(3) > .extneed
 ||erotiksohbeti.com/*^$popup
 ||eskortbeylikduzu.com*^$all
 ||eskortbeylikduzu.com*^$popup
+||eskortbeylikduzu.com/ad-category*^$popup
+||eskortbeylikduzu.com/ad-category/esenyurt-escort*^$popup
 ||eviewporn*/milf-min.png$image
 ||evlenirim.com*^$popup
 ||fileru-net.cdn.ampproject.org/i/s/fileru.net/img/ak7.gif$image
