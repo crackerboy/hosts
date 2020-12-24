@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://www.google.com/search?&q=t%C3%BCrk+adlist+xorcan" alt="Annoying Sites xorcan türk-adlist"><img src="../ivirzivir/xorcan.hosts.logo.jpg" width="250"></a></br>
+<h2 align="center"><a href="https://www.google.com/search?&q=t%C3%BCrk+adlist+xorcan" alt="Annoying Sites xorcan türk-adlist"><img src="./ivirzivir/xorcan.hosts.logo.jpg" width="250"></a></br>
 <b>Turkish Ad-list, Ad-Block List, HOSTS</b></h2><h4 align="center">Blocks annoying sites like betting and fraud. <a href="https://github.com/xorcan/hosts/blob/master/README.md">Türkçe</a></h4>
 
 <p align="center"><a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/github/license/xorcan/hosts.svg"></a> <a href="https://www.google.com/search?&q=t%C3%BCrk+adlist+xorcan" alt="Türkçe Ad-listler"><img src="https://img.shields.io/badge/t%C3%BCrk%C3%A7e-reklam%20listesi-f44b42.svg"></a>  <a href="https://github.com/xorcan/hosts/issues" alt="Hatalar"><img src="https://img.shields.io/github/issues/xorcan/hosts.svg"></a> 
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
 https://raw.githubusercontent.com/xorcan/hosts/master/xips.txt
 ```
 
-![like this](../ivirzivir/bilgi1.png)
+![like this](./ivirzivir/bilgi1.png)
 
 - You can then exit the page by clicking the "Apply Changes" button that appears at the top right.
 - You no longer need to enter the settings page and press the "Update" button. The list will be updated periodically as other sites do. 
