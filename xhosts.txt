@@ -2,8 +2,8 @@
 ! Format: Hosts
 ! Expires: 9 days
 ! Homepage: https://github.com/xorcan/hosts
-! Released: 23.12.2020
-! Entries: 8592
+! Released: 24.12.2020
+! Entries: 8590
 ! Details: https://github.com/xorcan/hosts
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -3067,7 +3067,6 @@
 127.0.0.1 poqujimev.ml
 127.0.0.1 poqujimev.tk
 127.0.0.1 pornohab.xyz
-127.0.0.1 pornosovet.net
 127.0.0.1 portalciyiz.biz
 127.0.0.1 portbet.net
 127.0.0.1 postaffiliatepro.com
@@ -7008,7 +7007,6 @@
 127.0.0.1 www.poqujimev.ml
 127.0.0.1 www.poqujimev.tk
 127.0.0.1 www.pornohab.xyz
-127.0.0.1 www.pornosovet.net
 127.0.0.1 www.portalciyiz.biz
 127.0.0.1 www.portbet.net
 127.0.0.1 www.postaffiliatepro.com
