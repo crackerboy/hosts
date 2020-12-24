@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/xorcan/hosts
 ! Released: 24.12.2020
-! Entries: 8808
+! Entries: 8716
 ! Details: https://github.com/xorcan/hosts
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
@@ -60,7 +60,6 @@
 127.0.0.1 1xsport.mobi
 127.0.0.1 1xsportru.mobi
 127.0.0.1 1xsports.mobi
-127.0.0.1 2.android.pool.ntp.org
 127.0.0.1 217.195.197.45
 127.0.0.1 22bet10.com
 127.0.0.1 2436.net
@@ -82,13 +81,11 @@
 127.0.0.1 3makrobetmedya.com
 127.0.0.1 3perabetmedya.com
 127.0.0.1 41df76c67812005c.com
-127.0.0.1 4625910.fls.doubleclick.net
 127.0.0.1 4club.com
 127.0.0.1 4club.reisen
 127.0.0.1 4turka.com
 127.0.0.1 50bahisnow.com
 127.0.0.1 518580904.log.optimizely.com
-127.0.0.1 5371908.fls.doubleclick.net
 127.0.0.1 5588389.com
 127.0.0.1 5handikap.com
 127.0.0.1 5posta.org
@@ -149,7 +146,6 @@
 127.0.0.1 acrmbjkk6qc5utby.pro
 127.0.0.1 action.adzcore.com
 127.0.0.1 action.com.tr
-127.0.0.1 activity.windows.com
 127.0.0.1 acuityplatform.com
 127.0.0.1 ad-cdn.bilgin.pro
 127.0.0.1 ad.1serve-sys.com
@@ -168,7 +164,6 @@
 127.0.0.1 ad.crwdcntrl.net
 127.0.0.1 ad.doganburda.com
 127.0.0.1 ad.donanimhaber.com
-127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.eglenced.com
 127.0.0.1 ad.ekonomikticaret.com
 127.0.0.1 ad.emlakeki.com
@@ -225,7 +220,6 @@
 127.0.0.1 adc3-launch.adcolony.com
 127.0.0.1 adcash.com
 127.0.0.1 adcater.com
-127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 adclicks.io
 127.0.0.1 adcolony.com
 127.0.0.1 adcy.net
@@ -237,7 +231,6 @@
 127.0.0.1 addwords.com.tr
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adeko.mobi
-127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adexchangegate.com
 127.0.0.1 adform.net
 127.0.0.1 adformdsp.net
@@ -302,11 +295,9 @@
 127.0.0.1 adroll.com
 127.0.0.1 adrttt.com
 127.0.0.1 adrunnr.com
-127.0.0.1 ads-fa.spotify.com
 127.0.0.1 ads-hl.noktamedya.com.tr
 127.0.0.1 ads-player.com
 127.0.0.1 ads-rouge.haber7.com
-127.0.0.1 ads-twitter.com
 127.0.0.1 ads.altitude-arena.com
 127.0.0.1 ads.api.vungle.com
 127.0.0.1 ads.avocarrot.com
@@ -363,14 +354,12 @@
 127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ads.travelaudience.com
 127.0.0.1 ads.trisier.com
-127.0.0.1 ads.twitter.com
 127.0.0.1 ads.uniblue.com
 127.0.0.1 ads.usa-media.net
 127.0.0.1 ads.videonap.com
 127.0.0.1 ads.vidoomy.com
 127.0.0.1 ads.webme.com
 127.0.0.1 ads.wordego.com
-127.0.0.1 ads.yahoo.com
 127.0.0.1 ads.yenimedya.com.tr
 127.0.0.1 ads.yieldmo.com
 127.0.0.1 ads.youtube.com
@@ -406,7 +395,6 @@
 127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 adserver.xpanama.net
 127.0.0.1 adserver1.adtech.com.tr
-127.0.0.1 adservice.google.ru
 127.0.0.1 adshare3.freedocast.com
 127.0.0.1 adsim.sabah.com.tr
 127.0.0.1 adslidango.com
@@ -438,7 +426,6 @@
 127.0.0.1 advertere.zamunda.net
 127.0.0.1 advertising.bulurum.com
 127.0.0.1 advertising.com
-127.0.0.1 advertising.yahoo.com
 127.0.0.1 advertserve.com
 127.0.0.1 advoly.com
 127.0.0.1 advonline.goforandroid.com
@@ -584,11 +571,7 @@
 127.0.0.1 analytics.olay.com.tr
 127.0.0.1 analytics.oned.io
 127.0.0.1 analytics.porn-tube.club
-127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.rayjump.com
-127.0.0.1 analytics.spotify.com
-127.0.0.1 analytics.twitter.com
-127.0.0.1 analytics.yahoo.com
 127.0.0.1 analytics.yeniakit.com.tr
 127.0.0.1 anamimyjyp.tk
 127.0.0.1 anarotomotiv.com.tr
@@ -658,7 +641,6 @@
 127.0.0.1 apklush.co
 127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 app-measurement.com
-127.0.0.1 app.adjust.com
 127.0.0.1 app.link
 127.0.0.1 app.medyanetads.com
 127.0.0.1 app.networkad.net
@@ -710,7 +692,6 @@
 127.0.0.1 aseltech.com.tr
 127.0.0.1 asforex8.com
 127.0.0.1 asforex9.com
-127.0.0.1 asia.pool.ntp.org
 127.0.0.1 asinsaat.org
 127.0.0.1 asliozturk.com
 127.0.0.1 aspetpreform.com.tr
@@ -738,7 +719,6 @@
 127.0.0.1 atomictrivia.ru
 127.0.0.1 aturkantorku.com
 127.0.0.1 auction.unityads.unity3d.com
-127.0.0.1 audio2.spotify.com
 127.0.0.1 autolinkmaker.itunes.apple.com
 127.0.0.1 avazunativeads.com
 127.0.0.1 avcilarescort.org
@@ -1263,7 +1243,6 @@
 127.0.0.1 cloudservice14.kingsoft-office-service.com
 127.0.0.1 cloudservice23.kingsoft-office-service.com
 127.0.0.1 cltrkr.com
-127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cm.mgid.com
 127.0.0.1 cm.steepto.com
 127.0.0.1 cms.quantserve.com
@@ -1307,7 +1286,6 @@
 127.0.0.1 cpdafetdjtdsy.com
 127.0.0.1 cpi-istanbul.com
 127.0.0.1 cqaiylftp.com
-127.0.0.1 crashdump.spotify.com
 127.0.0.1 crashlytics.com
 127.0.0.1 crazyegg.com
 127.0.0.1 creative.wwwpromoter.com
@@ -1405,7 +1383,6 @@
 127.0.0.1 derinsunakliyat.com
 127.0.0.1 dertbeats.com
 127.0.0.1 designgroup.com.tr
-127.0.0.1 desktop.spotify.com
 127.0.0.1 destekfx5.com
 127.0.0.1 destekfx6.com
 127.0.0.1 detect.rayjump.com
@@ -1449,7 +1426,6 @@
 127.0.0.1 doremido.com
 127.0.0.1 dorukmak.com.tr
 127.0.0.1 dosya-indirici.online
-127.0.0.1 doubleclick.net
 127.0.0.1 doubledeepclick.com
 127.0.0.1 down.hbjwzb.com
 127.0.0.1 downads.com
@@ -1808,9 +1784,6 @@
 127.0.0.1 good4all.ru
 127.0.0.1 gooddrink.com.tr
 127.0.0.1 google-analytics.com
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 googleads2.g.doubleclick.net
-127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 googleadservices.com
 127.0.0.1 googlesyndication.com
 127.0.0.1 googletagmanager.com
@@ -1823,7 +1796,6 @@
 127.0.0.1 grafit.com.tr
 127.0.0.1 granantrade1.com
 127.0.0.1 grand-ads.com
-127.0.0.1 graph.instagram.com
 127.0.0.1 gravityrd-services.com
 127.0.0.1 greatdexchange.com
 127.0.0.1 greedseed.world
@@ -2065,7 +2037,6 @@
 127.0.0.1 ioiuyul.tk
 127.0.0.1 iosexy.com
 127.0.0.1 iovation.com
-127.0.0.1 ip-api.com
 127.0.0.1 ipcheck.tmgrup.com.tr
 127.0.0.1 ipekkirpik.com.tr
 127.0.0.1 ipmingenieros.com.pe
@@ -2393,7 +2364,6 @@
 127.0.0.1 log.mobpowertech.com
 127.0.0.1 log.pinterest.com
 127.0.0.1 log.quora.com
-127.0.0.1 log.spotify.com
 127.0.0.1 log.trendingnow.video
 127.0.0.1 log.user-grey.com
 127.0.0.1 logger-01.vty.dailymotion.com
@@ -2783,7 +2753,6 @@
 127.0.0.1 noktapc.com.tr
 127.0.0.1 nolipz.com
 127.0.0.1 nonameland67.live
-127.0.0.1 north-america.pool.ntp.org
 127.0.0.1 notabenemessage.com
 127.0.0.1 notification-list.com
 127.0.0.1 notifications.website
@@ -2880,7 +2849,6 @@
 127.0.0.1 onthe.io
 127.0.0.1 onurcanemlak.com
 127.0.0.1 opelservisibodrum.com
-127.0.0.1 open.spotify.com
 127.0.0.1 openamp-error-reporting.appspot.com
 127.0.0.1 openinstall.io
 127.0.0.1 openshare.topupload.ru
@@ -2935,7 +2903,6 @@
 127.0.0.1 p31770.clksite.com
 127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 paibopse.com
 127.0.0.1 paksoymuhendislik.com
 127.0.0.1 palmiyetohumculuk.com.tr
@@ -3077,7 +3044,6 @@
 127.0.0.1 pmelon.com
 127.0.0.1 pomada.org
 127.0.0.1 ponylo.freesite.host
-127.0.0.1 pool.ntp.org
 127.0.0.1 popads.net
 127.0.0.1 popcash.net
 127.0.0.1 popcent.net
@@ -3149,7 +3115,6 @@
 127.0.0.1 pu.weareoffers.com
 127.0.0.1 pub.krakenbaker.com
 127.0.0.1 pub2srv.com
-127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 pubmatic.com
 127.0.0.1 puffnetwork.com
 127.0.0.1 pulsepoint-match.dotomi.com
@@ -3445,7 +3410,6 @@
 127.0.0.1 secure.livechatinc.com
 127.0.0.1 secure.wclnk.com
 127.0.0.1 securecloud-smart.com
-127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 securesmrt-dt.com
 127.0.0.1 securessl-smart.com
 127.0.0.1 sedsasu.com
@@ -3579,7 +3543,6 @@
 127.0.0.1 sonobi.com
 127.0.0.1 sosyal.rlink.live
 127.0.0.1 soyyigit.com.tr
-127.0.0.1 spclient.wg.spotify.com
 127.0.0.1 special-offers.online
 127.0.0.1 special-promotions.online
 127.0.0.1 speeder.biz
@@ -3620,11 +3583,9 @@
 127.0.0.1 static-addtoany-com.cdn.ampproject.org
 127.0.0.1 static-ads.akamaized.net
 127.0.0.1 static.addtoany.com
-127.0.0.1 static.ads-twitter.com
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.adxadserv.com
 127.0.0.1 static.criteo.net
-127.0.0.1 static.doubleclick.net
 127.0.0.1 static.everyplay.com
 127.0.0.1 static.exosrv.com
 127.0.0.1 static.hotjar.com
@@ -3633,7 +3594,6 @@
 127.0.0.1 stationsoft.com.tr
 127.0.0.1 stats.acunn.com
 127.0.0.1 stats.appsflyer.com
-127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.pagefair.com
 127.0.0.1 stats.posta.com.tr
 127.0.0.1 stats.tv8.com.tr
@@ -3689,7 +3649,6 @@
 127.0.0.1 syndication.exdynsrv.com
 127.0.0.1 syndication.exoclick.com
 127.0.0.1 syndication.exosrv.com
-127.0.0.1 syndication.twitter.com
 127.0.0.1 syndicpop.com
 127.0.0.1 system-security-com.xyz
 127.0.0.1 szczhal.cf
@@ -3925,7 +3884,6 @@
 127.0.0.1 uod2quk646.com
 127.0.0.1 upahco.go2affise.com
 127.0.0.1 uploadbox.world
-127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 uptoabc.com
 127.0.0.1 uptopopunder.com
@@ -3997,7 +3955,6 @@
 127.0.0.1 vidfaebeia.pornmsc.com
 127.0.0.1 vidlox.me
 127.0.0.1 vidlox.tv
-127.0.0.1 view.adjust.com
 127.0.0.1 viglink.com
 127.0.0.1 vip-flirtbooks.com
 127.0.0.1 vipturkiye.com
@@ -4055,7 +4012,6 @@
 127.0.0.1 web.redhelper.ru
 127.0.0.1 webanalyzer.bussion.com
 127.0.0.1 webinstats.com
-127.0.0.1 weblb-wg.gslb.spotify.com
 127.0.0.1 webservis.gen.tr
 127.0.0.1 webspectator.com
 127.0.0.1 webtemsilcisi.com
@@ -4150,7 +4106,6 @@
 127.0.0.1 www.1xsport.mobi
 127.0.0.1 www.1xsportru.mobi
 127.0.0.1 www.1xsports.mobi
-127.0.0.1 www.2.android.pool.ntp.org
 127.0.0.1 www.217.195.197.45
 127.0.0.1 www.22bet10.com
 127.0.0.1 www.2436.net
@@ -4172,13 +4127,11 @@
 127.0.0.1 www.3makrobetmedya.com
 127.0.0.1 www.3perabetmedya.com
 127.0.0.1 www.41df76c67812005c.com
-127.0.0.1 www.4625910.fls.doubleclick.net
 127.0.0.1 www.4club.com
 127.0.0.1 www.4club.reisen
 127.0.0.1 www.4turka.com
 127.0.0.1 www.50bahisnow.com
 127.0.0.1 www.518580904.log.optimizely.com
-127.0.0.1 www.5371908.fls.doubleclick.net
 127.0.0.1 www.5588389.com
 127.0.0.1 www.5handikap.com
 127.0.0.1 www.5posta.org
@@ -4239,7 +4192,6 @@
 127.0.0.1 www.acrmbjkk6qc5utby.pro
 127.0.0.1 www.action.adzcore.com
 127.0.0.1 www.action.com.tr
-127.0.0.1 www.activity.windows.com
 127.0.0.1 www.acuityplatform.com
 127.0.0.1 www.ad-cdn.bilgin.pro
 127.0.0.1 www.ad.1serve-sys.com
@@ -4258,7 +4210,6 @@
 127.0.0.1 www.ad.crwdcntrl.net
 127.0.0.1 www.ad.doganburda.com
 127.0.0.1 www.ad.donanimhaber.com
-127.0.0.1 www.ad.doubleclick.net
 127.0.0.1 www.ad.eglenced.com
 127.0.0.1 www.ad.ekonomikticaret.com
 127.0.0.1 www.ad.emlakeki.com
@@ -4315,7 +4266,6 @@
 127.0.0.1 www.adc3-launch.adcolony.com
 127.0.0.1 www.adcash.com
 127.0.0.1 www.adcater.com
-127.0.0.1 www.adclick.g.doubleclick.net
 127.0.0.1 www.adclicks.io
 127.0.0.1 www.adcolony.com
 127.0.0.1 www.adcy.net
@@ -4327,7 +4277,6 @@
 127.0.0.1 www.addwords.com.tr
 127.0.0.1 www.ade.googlesyndication.com
 127.0.0.1 www.adeko.mobi
-127.0.0.1 www.adeventtracker.spotify.com
 127.0.0.1 www.adexchangegate.com
 127.0.0.1 www.adform.net
 127.0.0.1 www.adformdsp.net
@@ -4392,11 +4341,9 @@
 127.0.0.1 www.adroll.com
 127.0.0.1 www.adrttt.com
 127.0.0.1 www.adrunnr.com
-127.0.0.1 www.ads-fa.spotify.com
 127.0.0.1 www.ads-hl.noktamedya.com.tr
 127.0.0.1 www.ads-player.com
 127.0.0.1 www.ads-rouge.haber7.com
-127.0.0.1 www.ads-twitter.com
 127.0.0.1 www.ads.altitude-arena.com
 127.0.0.1 www.ads.api.vungle.com
 127.0.0.1 www.ads.avocarrot.com
@@ -4453,14 +4400,12 @@
 127.0.0.1 www.ads.trafficjunky.net
 127.0.0.1 www.ads.travelaudience.com
 127.0.0.1 www.ads.trisier.com
-127.0.0.1 www.ads.twitter.com
 127.0.0.1 www.ads.uniblue.com
 127.0.0.1 www.ads.usa-media.net
 127.0.0.1 www.ads.videonap.com
 127.0.0.1 www.ads.vidoomy.com
 127.0.0.1 www.ads.webme.com
 127.0.0.1 www.ads.wordego.com
-127.0.0.1 www.ads.yahoo.com
 127.0.0.1 www.ads.yenimedya.com.tr
 127.0.0.1 www.ads.yieldmo.com
 127.0.0.1 www.ads.youtube.com
@@ -4496,7 +4441,6 @@
 127.0.0.1 www.adserver.unityads.unity3d.com
 127.0.0.1 www.adserver.xpanama.net
 127.0.0.1 www.adserver1.adtech.com.tr
-127.0.0.1 www.adservice.google.ru
 127.0.0.1 www.adshare3.freedocast.com
 127.0.0.1 www.adsim.sabah.com.tr
 127.0.0.1 www.adslidango.com
@@ -4528,7 +4472,6 @@
 127.0.0.1 www.advertere.zamunda.net
 127.0.0.1 www.advertising.bulurum.com
 127.0.0.1 www.advertising.com
-127.0.0.1 www.advertising.yahoo.com
 127.0.0.1 www.advertserve.com
 127.0.0.1 www.advoly.com
 127.0.0.1 www.advonline.goforandroid.com
@@ -4674,11 +4617,7 @@
 127.0.0.1 www.analytics.olay.com.tr
 127.0.0.1 www.analytics.oned.io
 127.0.0.1 www.analytics.porn-tube.club
-127.0.0.1 www.analytics.query.yahoo.com
 127.0.0.1 www.analytics.rayjump.com
-127.0.0.1 www.analytics.spotify.com
-127.0.0.1 www.analytics.twitter.com
-127.0.0.1 www.analytics.yahoo.com
 127.0.0.1 www.analytics.yeniakit.com.tr
 127.0.0.1 www.anamimyjyp.tk
 127.0.0.1 www.anarotomotiv.com.tr
@@ -4748,7 +4687,6 @@
 127.0.0.1 www.apklush.co
 127.0.0.1 www.app-analytics.snapchat.com
 127.0.0.1 www.app-measurement.com
-127.0.0.1 www.app.adjust.com
 127.0.0.1 www.app.link
 127.0.0.1 www.app.medyanetads.com
 127.0.0.1 www.app.networkad.net
@@ -4800,7 +4738,6 @@
 127.0.0.1 www.aseltech.com.tr
 127.0.0.1 www.asforex8.com
 127.0.0.1 www.asforex9.com
-127.0.0.1 www.asia.pool.ntp.org
 127.0.0.1 www.asinsaat.org
 127.0.0.1 www.asliozturk.com
 127.0.0.1 www.aspetpreform.com.tr
@@ -4828,7 +4765,6 @@
 127.0.0.1 www.atomictrivia.ru
 127.0.0.1 www.aturkantorku.com
 127.0.0.1 www.auction.unityads.unity3d.com
-127.0.0.1 www.audio2.spotify.com
 127.0.0.1 www.autolinkmaker.itunes.apple.com
 127.0.0.1 www.avazunativeads.com
 127.0.0.1 www.avcilarescort.org
@@ -5353,7 +5289,6 @@
 127.0.0.1 www.cloudservice14.kingsoft-office-service.com
 127.0.0.1 www.cloudservice23.kingsoft-office-service.com
 127.0.0.1 www.cltrkr.com
-127.0.0.1 www.cm.g.doubleclick.net
 127.0.0.1 www.cm.mgid.com
 127.0.0.1 www.cm.steepto.com
 127.0.0.1 www.cms.quantserve.com
@@ -5397,7 +5332,6 @@
 127.0.0.1 www.cpdafetdjtdsy.com
 127.0.0.1 www.cpi-istanbul.com
 127.0.0.1 www.cqaiylftp.com
-127.0.0.1 www.crashdump.spotify.com
 127.0.0.1 www.crashlytics.com
 127.0.0.1 www.crazyegg.com
 127.0.0.1 www.creative.wwwpromoter.com
@@ -5495,7 +5429,6 @@
 127.0.0.1 www.derinsunakliyat.com
 127.0.0.1 www.dertbeats.com
 127.0.0.1 www.designgroup.com.tr
-127.0.0.1 www.desktop.spotify.com
 127.0.0.1 www.destekfx5.com
 127.0.0.1 www.destekfx6.com
 127.0.0.1 www.detect.rayjump.com
@@ -5537,7 +5470,6 @@
 127.0.0.1 www.doremido.com
 127.0.0.1 www.dorukmak.com.tr
 127.0.0.1 www.dosya-indirici.online
-127.0.0.1 www.doubleclick.net
 127.0.0.1 www.doubledeepclick.com
 127.0.0.1 www.down.hbjwzb.com
 127.0.0.1 www.downads.com
@@ -5895,9 +5827,6 @@
 127.0.0.1 www.good4all.ru
 127.0.0.1 www.gooddrink.com.tr
 127.0.0.1 www.google-analytics.com
-127.0.0.1 www.googleads.g.doubleclick.net
-127.0.0.1 www.googleads2.g.doubleclick.net
-127.0.0.1 www.googleads4.g.doubleclick.net
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.googlesyndication.com
 127.0.0.1 www.googletagmanager.com
@@ -5909,7 +5838,6 @@
 127.0.0.1 www.grafit.com.tr
 127.0.0.1 www.granantrade1.com
 127.0.0.1 www.grand-ads.com
-127.0.0.1 www.graph.instagram.com
 127.0.0.1 www.gravityrd-services.com
 127.0.0.1 www.greatdexchange.com
 127.0.0.1 www.greedseed.world
@@ -6151,7 +6079,6 @@
 127.0.0.1 www.ioiuyul.tk
 127.0.0.1 www.iosexy.com
 127.0.0.1 www.iovation.com
-127.0.0.1 www.ip-api.com
 127.0.0.1 www.ipcheck.tmgrup.com.tr
 127.0.0.1 www.ipekkirpik.com.tr
 127.0.0.1 www.ipmingenieros.com.pe
@@ -6479,7 +6406,6 @@
 127.0.0.1 www.log.mobpowertech.com
 127.0.0.1 www.log.pinterest.com
 127.0.0.1 www.log.quora.com
-127.0.0.1 www.log.spotify.com
 127.0.0.1 www.log.trendingnow.video
 127.0.0.1 www.log.user-grey.com
 127.0.0.1 www.logger-01.vty.dailymotion.com
@@ -6868,7 +6794,6 @@
 127.0.0.1 www.noktapc.com.tr
 127.0.0.1 www.nolipz.com
 127.0.0.1 www.nonameland67.live
-127.0.0.1 www.north-america.pool.ntp.org
 127.0.0.1 www.notabenemessage.com
 127.0.0.1 www.notification-list.com
 127.0.0.1 www.notifications.website
@@ -6964,7 +6889,6 @@
 127.0.0.1 www.onthe.io
 127.0.0.1 www.onurcanemlak.com
 127.0.0.1 www.opelservisibodrum.com
-127.0.0.1 www.open.spotify.com
 127.0.0.1 www.openamp-error-reporting.appspot.com
 127.0.0.1 www.openinstall.io
 127.0.0.1 www.openx.net
@@ -7018,7 +6942,6 @@
 127.0.0.1 www.p31770.clksite.com
 127.0.0.1 www.pagead2.googleadservices.com
 127.0.0.1 www.pagead2.googlesyndication.com
-127.0.0.1 www.pagead46.l.doubleclick.net
 127.0.0.1 www.paibopse.com
 127.0.0.1 www.paksoymuhendislik.com
 127.0.0.1 www.palmiyetohumculuk.com.tr
@@ -7160,7 +7083,6 @@
 127.0.0.1 www.pmelon.com
 127.0.0.1 www.pomada.org
 127.0.0.1 www.ponylo.freesite.host
-127.0.0.1 www.pool.ntp.org
 127.0.0.1 www.popads.net
 127.0.0.1 www.popcash.net
 127.0.0.1 www.popcent.net
@@ -7232,7 +7154,6 @@
 127.0.0.1 www.pu.weareoffers.com
 127.0.0.1 www.pub.krakenbaker.com
 127.0.0.1 www.pub2srv.com
-127.0.0.1 www.pubads.g.doubleclick.net
 127.0.0.1 www.pubmatic.com
 127.0.0.1 www.puffnetwork.com
 127.0.0.1 www.pulsepoint-match.dotomi.com
@@ -7528,7 +7449,6 @@
 127.0.0.1 www.secure.livechatinc.com
 127.0.0.1 www.secure.wclnk.com
 127.0.0.1 www.securecloud-smart.com
-127.0.0.1 www.securepubads.g.doubleclick.net
 127.0.0.1 www.securesmrt-dt.com
 127.0.0.1 www.securessl-smart.com
 127.0.0.1 www.sedsasu.com
@@ -7660,7 +7580,6 @@
 127.0.0.1 www.sonobi.com
 127.0.0.1 www.sosyal.rlink.live
 127.0.0.1 www.soyyigit.com.tr
-127.0.0.1 www.spclient.wg.spotify.com
 127.0.0.1 www.special-offers.online
 127.0.0.1 www.special-promotions.online
 127.0.0.1 www.speeder.biz
@@ -7701,11 +7620,9 @@
 127.0.0.1 www.static-addtoany-com.cdn.ampproject.org
 127.0.0.1 www.static-ads.akamaized.net
 127.0.0.1 www.static.addtoany.com
-127.0.0.1 www.static.ads-twitter.com
 127.0.0.1 www.static.adsafeprotected.com
 127.0.0.1 www.static.adxadserv.com
 127.0.0.1 www.static.criteo.net
-127.0.0.1 www.static.doubleclick.net
 127.0.0.1 www.static.everyplay.com
 127.0.0.1 www.static.exosrv.com
 127.0.0.1 www.static.hotjar.com
@@ -7714,7 +7631,6 @@
 127.0.0.1 www.stationsoft.com.tr
 127.0.0.1 www.stats.acunn.com
 127.0.0.1 www.stats.appsflyer.com
-127.0.0.1 www.stats.g.doubleclick.net
 127.0.0.1 www.stats.pagefair.com
 127.0.0.1 www.stats.posta.com.tr
 127.0.0.1 www.stats.tv8.com.tr
@@ -7770,7 +7686,6 @@
 127.0.0.1 www.syndication.exdynsrv.com
 127.0.0.1 www.syndication.exoclick.com
 127.0.0.1 www.syndication.exosrv.com
-127.0.0.1 www.syndication.twitter.com
 127.0.0.1 www.syndicpop.com
 127.0.0.1 www.system-security-com.xyz
 127.0.0.1 www.szczhal.cf
@@ -8002,7 +7917,6 @@
 127.0.0.1 www.uod2quk646.com
 127.0.0.1 www.upahco.go2affise.com
 127.0.0.1 www.uploadbox.world
-127.0.0.1 www.ups.analytics.yahoo.com
 127.0.0.1 www.ups.ksmobile.net
 127.0.0.1 www.uptoabc.com
 127.0.0.1 www.uptopopunder.com
@@ -8074,7 +7988,6 @@
 127.0.0.1 www.vidfaebeia.pornmsc.com
 127.0.0.1 www.vidlox.me
 127.0.0.1 www.vidlox.tv
-127.0.0.1 www.view.adjust.com
 127.0.0.1 www.viglink.com
 127.0.0.1 www.vip-flirtbooks.com
 127.0.0.1 www.vipturkiye.com
@@ -8132,7 +8045,6 @@
 127.0.0.1 www.web.redhelper.ru
 127.0.0.1 www.webanalyzer.bussion.com
 127.0.0.1 www.webinstats.com
-127.0.0.1 www.weblb-wg.gslb.spotify.com
 127.0.0.1 www.webservis.gen.tr
 127.0.0.1 www.webspectator.com
 127.0.0.1 www.webtemsilcisi.com
@@ -8461,8 +8373,6 @@
 127.0.0.1 www.yzftkgr.gq
 127.0.0.1 www.yzftkgr.ml
 127.0.0.1 www.yzftkgr.tk
-127.0.0.1 www.z-p4.graph.instagram.com
-127.0.0.1 www.z-p42.graph.instagram.com
 127.0.0.1 www.z.moatads.com
 127.0.0.1 www.zddxlih.com
 127.0.0.1 www.zen.yandex.com.tr
@@ -8782,8 +8692,6 @@
 127.0.0.1 yzftkgr.gq
 127.0.0.1 yzftkgr.ml
 127.0.0.1 yzftkgr.tk
-127.0.0.1 z-p4.graph.instagram.com
-127.0.0.1 z-p42.graph.instagram.com
 127.0.0.1 z.moatads.com
 127.0.0.1 zddxlih.com
 127.0.0.1 zen.yandex.com.tr
