@@ -22,6 +22,13 @@ https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
 https://raw.githubusercontent.com/xorcan/hosts/master/xips.txt
 ```
 
+- Ayrıca eklemenizi tavsiye ettiğim listeler:
+
+```
+https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+```
+
 ![bunun gibi](./ivirzivir/bilgi1.png)
 
 - Ardından sağ üstte beliren **"Değişiklikleri Kaydet"** düğmesine tıklayarak sayfadan çıkabilirsiniz. 
