@@ -13,6 +13,7 @@ Detailed information (Turkish): [bilgiler 1](https://eksisozluk.com/nano-defende
 
 - You can effectively filter element by using [uBlock Origin](https://github.com/gorhill/uBlock) in your browser. To do so, first obtain the one for your browser: [for Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=tr) - 
 [for Firefox](https://addons.mozilla.org/tr/firefox/addon/ublock-origin/) - [for Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) - [for Opera](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
+
 - Go to **uBlock Origin > Dashboard > Filter lists > Import (at the bottom)** and add the following link to the drop-down link:
 
 ```

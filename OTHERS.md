@@ -50,7 +50,7 @@ https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
 
 ## diğer
 
-*eadblock kullanıyon koçum kapat diyen sitelere karşı:*
+*adblock kullanıyon koçum kapat diyen sitelere karşı:*
 ```https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt```
 
 *porno falan (önerilmez):* 
