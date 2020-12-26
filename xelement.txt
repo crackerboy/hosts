@@ -3,7 +3,7 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/xorcan/hosts
 ! Released: 25.12.2020
-! Entries: 5574
+! Entries: 5579
 ! Details: https://github.com/xorcan/hosts
 ! Issues: https://github.com/xorcan/hosts/issues
 ! Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -3381,6 +3381,11 @@
 *pskinlord*^$image
 /*/*/wp-content/uploads/*/*vardh*.gif
 /*/*/wp-content/uploads/*/*yenivideoalt*.gif
+/wp-content/plugins/adunblocker
+/wp-content/plugins/eazy-ad-unblocker/*
+/wp-content/plugins/jgc-adblocker-detector/*
+/wp-content/plugins/simple-adblock-notice-pro^
+/wp-content/plugins/unblock-adsense/*/adunblock
 1000kitap.com##.container > .satisLink
 1000kitap.com##.satis-banner.analiz.reklam1k
 1000kitap.com##div.embed.analiz.reklam1k
