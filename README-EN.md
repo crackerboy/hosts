@@ -31,16 +31,20 @@ https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 
 ![like this](./ivirzivir/bilgi1.png)
 
-- You can then exit the page by clicking the "Apply Changes" button that appears at the top right.
-- You no longer need to enter the settings page and press the "Update" button. The list will be updated periodically as other sites do. 
-- NOTE: they won't be able to block all ads due to the hosts structure of this list. We can block ads from third parties only, and in many cases this filtering method is sufficient.
+- You can then exit the page by clicking the **"Apply Changes"** button that appears at the top right.
+- You no longer need to enter the settings page and press the **"Update"** button. The list will be updated periodically as other sites do. 
 
+## When Your Settings Are Finished It Should Look Like This:
+
+![like this](./ivirzivir/bilgi2.png)
 
 ## What's Not Recommended for Windows?
 
 This is for advanced users only. Do not make this setting if you do not know what it is!
 Copy the entire list by entering the following address:
-1. ```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+
+```https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt```
+
 - Locate the hosts file on your computer at C:\Windows\System32\drivers\etc.
 - Open the hosts file with notepad ++, paste the list here and save and exit.
 - Restart your computer.
