@@ -9,9 +9,7 @@ AdAway ile kullanınız. -çoğunlukla- Android için tasarlanmıştır. Daha ö
 
 Ayrıntılı bilgi: [bilgiler 1](https://eksisozluk.com/nano-defender--5646917?a=nice) - [bilgiler 2](https://eksisozluk.com/nano-adblocker--5649314?a=nice)
 
-## Kurulum Videosu
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/y_ZpbJGR_vw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## [Kurulum Videosu](https://www.youtube.com/watch?v=y_ZpbJGR_vw)
 
 ## Windows için Önerilen
 
