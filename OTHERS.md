@@ -10,6 +10,7 @@ bu host listeleri zaten xorcan/hosts ta bulunuyor ve d√ºzenli olarak onlar da g√
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Turk-adlist.txt
 https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
 https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
+https://gitlab.com/anarcho-copy/block-fake-pdf-sites/-/raw/master/hosts
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt
 ```
 
