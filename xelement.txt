@@ -3,7 +3,7 @@
 # Expires: 1 days
 # Homepage: https://github.com/xorcan/hosts
 # Released: 02.02.2021
-# Entries: 5993
+# Entries: 5992
 # Details: https://github.com/xorcan/hosts
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -3062,7 +3062,6 @@
 ##[href^="www.affibtm.com"]
 ##[href^="www.affibtm.com/"]
 ##[href^="www.affmaksibet.com/m443719.html"]
-##[href^="www.akbet60.com"
 ##[href^="www.akbet60.com"]
 ##[href^="www.akbet60.com/"]
 ##[href^="www.akbet60.com/affiliates/"]
