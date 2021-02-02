@@ -3,7 +3,7 @@
 # Expires: 1 days
 # Homepage: https://github.com/xorcan/hosts
 # Released: 02.02.2021
-# Entries: 5989
+# Entries: 5993
 # Details: https://github.com/xorcan/hosts
 # Issues: https://github.com/xorcan/hosts/issues
 # Source: https://raw.githubusercontent.com/xorcan/hosts/master/xelement.txt
@@ -3578,6 +3578,7 @@ anchor.fm/kimainign
 arabam.com##.db.dn
 aradiginindir.blogspot.com##.linktl_flashad_wrap.linktl_flashad_reset
 archive.is##.body > div:nth-of-type(2)
+asksiirleri.org#$#abort-current-inline-script Math zfgloaded
 atvavrupa.tv,sabah.com.tr,transfermarkt.com.tr##.header-social
 autoline.com.tr,cnnturk.com,fotomac.com.tr,hurriyet.com.tr,lacivertdergi.com,landrover.com.tr,takvim.com.tr,vavradyo.com.tr##.share
 axscbbajb.eviewporn.com##.ara-banner
@@ -4193,6 +4194,7 @@ www.ucosi.com##.single-header
 www.webtekno.com##.hide-mobile > .adsbygoogle
 xxccdshj.com##*
 yabancidizi.org###PlayerBlock
+yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'
 yandimporno.com##.e_837327125
 yenisafak.com##.policy
 yonah-evooli-com.cdn.ampproject.org###fnzClick
@@ -4924,6 +4926,8 @@ zo-romvs-com.cdn.ampproject.org,za-ucosi-com.cdn.ampproject.org###yes
 ||d.findyourpleasure1.life/^$popup
 ||d.findyourpleasure1.life^$popup
 ||d1d8vn0fpluuz7.cloudfront.net^
+||d1quho2us9g95p.cloudfront.net^$script
+||d2zjlj1vewrxcj.cloudfront.net^$script
 ||daily-notification.icu*^$popup
 ||danielaophir.tk^
 ||danmeneldur.com^$third-party
